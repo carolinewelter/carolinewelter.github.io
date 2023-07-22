@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Chemical Engineering @ <a href='https://fernandolim
 
 profile:
   align: right
-  image: caroline_welter.jpeg
+  image: caroline_welter.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
