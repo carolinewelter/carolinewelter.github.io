@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Chemical Engineering @ <a href='https://fernandolim
 
 profile:
   align: right
-  image: victor_alves.jpg
+  image: caroline_welter.jpeg
   image_circular: false # crops the image to make it circular
   address: >
 
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! 👋
+Hi there! 👋 CAROL VERSION!!
 
 I am a Ph.D. Candidate (Graduate Research Assistant) in Chemical Engineering at [West Virginia University](https://www.wvu.edu/), and a member of the [CODES Research Group](https://fernandolima.faculty.wvu.edu/). In addition, I hold both a M.Sc. and B.Sc. degrees also in Chemical Engineering. 
 
