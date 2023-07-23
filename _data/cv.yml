@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: 3th year Ph.D. Student, Economics
+    - title: 3^rd^ year Ph.D. Student, Economics
       institution: West Virginia University, USA
       year: Aug 2021 - currently
       description:
@@ -41,7 +41,7 @@
       year: Mar 2012 - Mar 2017
       description:
         - <u>GPA:<u> 3.63/4.00
-        - Honor: summa cum laude.
+        - - contents: Honor summa cum laude.
 
 # - title: Experience
 #   type: time_table
