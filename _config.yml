@@ -267,8 +267,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Alves, Cunha Alves]
-  first_name: [Victor, Victor M. C., Victor Manuel, Victor Manuel Cunha, V. M. C., Victor MC, VMC]
+  last_name: [Welter, Andressa Welter]
+  first_name: [Caroline, Caroline A. W., Caroline Andressa, Caroline Andressa Welter, C. A. W., Caroline A.W., Welter C.A., CAW]
 
   style: apa
   locale: en
