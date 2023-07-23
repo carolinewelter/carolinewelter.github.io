@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Chemical Engineering @ <a href='https://fernandolima.faculty.wvu.edu/'>CODES Research Group</a>.
+subtitle: Ph.D. Student in Economics @ <a href='https://rri.wvu.edu/'> Regional Research Institute at WVU </a>.
 
 profile:
   align: right
@@ -16,17 +16,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! 👋 CAROL VERSION!! deploy test, showing deployment example
+Hi there! 👋 
 
-I am a Ph.D. Candidate (Graduate Research Assistant) in Chemical Engineering at [West Virginia University](https://www.wvu.edu/), and a member of the [CODES Research Group](https://fernandolima.faculty.wvu.edu/). In addition, I hold both a M.Sc. and B.Sc. degrees also in Chemical Engineering. 
+I am a 3th year Ph.D. Student (Graduate Research Assistant) in Economics at [West Virginia University](https://www.wvu.edu/), and a member of the [Regional Research Institute](https://rri.wvu.edu/). In addition, I hold both a M.Sc. and B.Sc. degrees also in Economics. 
 
-Throughout my career, I have developed algorithms and methods to efficiently solve problems related
-to [Process Systems Engineering (PSE)](https://www.sciencedirect.com/science/article/pii/S0098135421000302), giving me experience in:
+Throughout my career, I have developed research related
+to the fields of Urban and Regional Economics, and now giving more emphasis to its connection with Health Economics , giving me experience in:
 
-- Process modeling
-- Advanced process control
-- Plantwide control
-- Nonlinear constrained optimization
-- Supervised machine learning.
+- Causal Inference Methods
+- Applied Economics
+- 
+-
 
-My current goal is to conduct further research on the design, modeling, control and assessment of chemical processes. Lastly, I have experience working with the industry, mainly the oil and gas, petrochemical and energy sectors.
+<!-- My current goal is to conduct further research on the design, modeling, control and assessment of chemical processes. Lastly, I have experience working with the industry, mainly the oil and gas, petrochemical and energy sectors. -->
