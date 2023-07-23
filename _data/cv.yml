@@ -9,14 +9,14 @@
 - title: Education
   type: time_table
   contents:
-    - title: 3^rd^ year Ph.D. Student, Economics
+    - title: 3rd year Ph.D. Student, Economics
       institution: West Virginia University, USA
       year: Aug 2021 - currently
       description:
         - Graduate Research Assistant at the Regional Research Institute (RRI). 
         - <u>GPA:<u> 3.89/4.00
         - contents:
-            - Specializing in the field of Urban and Regional Economics and Health Economics.
+            - Specializing in the fields of Urban and Regional Economics and Health Economics.
         # - title: Control, Optimization and Design for Energy and Sustainability (CODES) Research Group leader.
         #   contents:
         #     - CODES Research Group leader, supervising group activities, as well as organizing the group's semester schedule, workshops, weekly meetings and relevant announcements.
@@ -29,7 +29,7 @@
         # - contents: 
         #   - 
        
-    - title: Master's Degree (M.A.), Economics
+    - title: Master's Degree (M.Sc.), Economics
       institution: Western Parana State University, Brazil
       year: Mar 2017 - Mar 2019
       description: 
