@@ -6,7 +6,7 @@ description: Please find below the projects that I am involved in.
 nav: true
 nav_order: 2
 display_categories: work
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
