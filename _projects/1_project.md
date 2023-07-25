@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Covid-19 – impacts of the pandemic on the Brazilian economy (Portuguese Edition)
-description: The mentioned book "COVID-19 - Impacts of the pandemic on the Brazilian economy" brings forth an important reflection on the effects of the coronavirus pandemic on modern life, especially in Brazil, and how much can be learned from this delicate and challenging moment that the world is facing. Directly, the chapters provide a significant discussion considering the serious consequences of Covid-19 on daily life, quality of life, but also, and above all, in two of the most crucial areas of society - health and the economy.
+description: The book "COVID-19 - Impacts of the pandemic on the Brazilian economy" brings forth an important reflection on the effects of the coronavirus pandemic on modern life, especially in Brazil, and how much can be learned from this delicate and challenging moment that the world is facing.
 img: covid.jpg
 redirect: https://a.co/d/amt33ep
 importance: 1
