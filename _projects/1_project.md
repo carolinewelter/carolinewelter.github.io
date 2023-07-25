@@ -2,7 +2,7 @@
 layout: page
 title: Book Chapter
 description: Covid-19 – impacts of the pandemic on the Brazilian economy (Portuguese Edition)
-img: covid_book.jpeg
+img: /assets/img/covid_book.jpeg
 redirect: https://a.co/d/amt33ep
 importance: 1
 category: work
