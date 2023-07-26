@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Some of my repositories that are related to my Process System Engineering and Chemical Engineering work.
+description: Here, you'll find a curated collection of my research projects repositories. These repositories are dedicated to fostering replicable work, enabling fellow researchers and enthusiasts to explore, collaborate, and build upon my findings.
 nav: true
 nav_order: 3
 ---
