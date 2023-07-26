@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Please find below the projects that I am involved in.
+description: Below, you'll find projects that I have actively participated in or have been involved with in the past.
 nav: true
 nav_order: 2
 display_categories: work
