@@ -2,95 +2,138 @@
   type: map
   contents:
     - name: Full Name
-      value: Caroline Welter
+      value: Caroline Andressa Welter
     - name: Languages
       value: English, Portuguese
 
 - title: Education
   type: time_table
   contents:
-    - title: 3rd year Ph.D. Student, Economics
+    - title: 3rd-year Ph.D. Student, Economics
       institution: West Virginia University, USA
       year: Aug 2021 - currently
       description:
         - Graduate Research Assistant at the Regional Research Institute (RRI). 
         - <u>GPA:<u> 3.89/4.00
         - contents:
-            - Specializing in the fields of Urban and Regional Economics and Health Economics.
-        # - title: Control, Optimization and Design for Energy and Sustainability (CODES) Research Group leader.
-        #   contents:
-        #     - CODES Research Group leader, supervising group activities, as well as organizing the group's semester schedule, workshops, weekly meetings and relevant announcements.
+            - Urban and Regional Economics and Health Economics areas of emphasis.
+
     - title: Master's Degree (M.A.), Economics
       institution: West Virginia University, USA
-      year: Aug 2021 -  Jul 2023
+      year: Aug 2021 -  Aug 2023
       description:
-        - Is Obesity affected by Urban Sprawl? Evidence from Brazil.
+        - Thesis "Is Obesity affected by Urban Sprawl? Evidence from Brazil".
         - <u>GPA:<u> 3.89/4.00
-        # - contents: 
-        #   - 
        
     - title: Master's Degree (M.Sc.), Economics
       institution: Western Parana State University, Brazil
       year: Mar 2017 - Mar 2019
       description: 
-        - Identification and Analysis of the Evolution of Local Productive Arrangements.
+        - Thesis "Identification and Analysis of the Evolution of Local Productive Arrangements".
         - <u>GPA:<u> 4.00/4.00
 
-    - title: Bachelor of Science, Economics 
+    - title: Bachelor of Science (B.S.), Economics 
       institution: Western Parana State University, Brazil
       year: Mar 2012 - Mar 2017
       description:
         - <u>GPA:<u> 3.63/4.00
-        - contents: Honor summa cum laude.
+        - Honor <i> summa cum laude <i>.
 
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Researcher and Developer
-#       institution: Federal University of Campina Grande
-#       year: Sep 2018 - Mar 2020
-#       description:
-#         - Research and development of a software called BRPWC for Petrobras, an automated software capable of easily selecting the most promising self-optimizing control structures in large-scale, industrial processes.
-#     - title: Process Engineering Intern
-#       institution: SigmaCT as a contractor to Braskem
-#       year: Mar 2017 - Sep 2017
-#       description:
-#         - Experience in Vinyl Chloride Monomer (VCM) and Polyvinyl Chloride (PVC) production plants.
+- title: Research Interests
+  type: list
+  contents:
+    - title: Urban and Regional Economics
+    - title: Urban Economics
+    - title: Applied Econometrics
+    - title: Input-Output Analysis
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      company: Regional Research Institute (RRI), West Virginia University
+      year: 2021 - Currently
+      description:
+        - 
+    - title: Chief of Quality and Research
+      company: Datasight Research and Consulting Ltda
+      year: 2017 - 2020
+      description:
+        - 
+    - title: Teaching Assistant
+      institution: North Paraná University, Brazil
+      year: 2019
+      description:
+        - Business Accounting
+    - title: Graduate Teaching Assistant
+      institution: Western Parana State University, Brazil
+      year: 2017
+      description:
+        - Econometrics    
+    - title: Banking Intern
+      institution: Sicoob Bank
+      year: Jan 2016 - Jan 2017
+    - title: Undergraduate Teaching Assistant
+      institution: Western Parana State University, Brazil
+      year: 2015 - 2016
+      description:
+        - Econometrics
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://meta-control.net/">Metacontrol</a>
-#       year: 2019 - currently
-#       description: Metacontrol is a Python-based software which assembles several methodologies into a single bundle so that a fast implementation of the Self-Optimizing Control (SOC) technique can be achieved.
-#     - title: Python-based process operability package
-#       year: 2022 - currently
-#       description: A Python-based package that encapsulates all process operability algorithms in a single bundle fashion, allowing for simultaneous design and control of chemical processes in a easy, open-source environment.
+- title: Peer-reviewed Publications
+  type: list
+  contents:
+    - title: Welter, C.A., Cypriano, L., and Centuriao, D. (2021). Identification and Analysis of the Evolution of Local Productive Arrangements. <i>Journal of Regional Analysis and Policy<i> 51 (2), 49-66.
+    - title: Centuriao, D.A.S., Welter, C.A. and Frainer, D.M. (2021). Comparison between cattle complexes. <i>Agricultural Policy Journal<i> 31 (2), 8-21 (in Portuguese).
+    - title: Welter, C.A., Paetzhold, T.P.S., Centuriao, D.A.S., and Schneider, M.B. (2021). The heterodox stabilization plans main effects for the Brazilian economy in the period from 1985 to 1989. \textit{Brazilian Journal of Development} 7 (3), 23814-23836 (in Portuguese).
+    - title: Centuriao, D.A.S., Welter, C.A. and Abrita, M.B. (2020). Business Challenges and Policy Suggestions in the Face of the Covid-19 Pandemic. <i>Economy in Review<i>, 28 (1), 54-65 (in Portuguese).
+    - title: Welter, C.A., Centurião, D. A.S., Batista, A. M., and Rippel, R. (2020). Economic growth in Western Paraná an analysis based on regional indicators. <i>Parana Development Journal<i> 41 (138), 159-176 (in Portuguese).
+    - title: Centuriao, D.A.S., Welter, C.A and Frainer, D.M. (2020). Development of the municipalities in Mato Grosso do Sul an analysis from a synthetic multidimensional indicator. <i>Brazilian Journal of the Environment<i>, 8 (4), 256-274. (in Portuguese).
+    - title: Gabriel, F.B.A., Centuriao, D.A.S., Welter, C.A. and Silva, G.O.V.P. da, (2020). Governance Structures and Transaction Attributes in the Ribas do Rio Pardo (MS) Agroindustrial Forest Complex. <i>REDES<i> 25 (2), 762-781 (in Portuguese).
+    - title: Welter, C.A. and Centuriao, D.A.S. (2020). Economic growth in Mato Grosso do Sul polarization and heterogeneity. <i>GeoFronter<i> 25 (2), 01-23 (in Portuguese).
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 2022
-#       items: 
-#         - Sweeney D., Alves V., Sakhai S., Dinh S. and Lima F. V. Techno-economic Optimization of a Palladium Membrane Reactor for Steam Methane Reforming Industrial Process. AIChE Annual Student Conference, Phoenix, AZ. 2022.
+- title: Conferences
+  type: list
+  contents:
+    - title: 62th Annual Meetings Southern Regional Science Association (SRSA), Savannah - GA, USA, 2023.
+    - title: 69th Annual North American Meetings of the Regional Science Association International (NARSC), Montreal - Canada, 2022.
+    - title: 61th Southern Regional Science Association (SRSA), Austin - TX, USA, 2022.
+    - title: III International Meeting on Management, Development and Innovation, Brazil, 2019.
+    - title: XIII Paraná Economics Meeting, Brazil, 2019.
+    - title: 56th Brazilian Society of Economics, Administration and Rural Sociology Conference, Brazil, 2018.
+    - title: 55th Brazilian Society of Economics, Administration and Rural Sociology Conference, Brazil, 2017.
+    - title: XII Paraná Economics Meeting, Brazil, 2017.
+    - title: V National Research Conference in Applied Social Sciences, Brazil, 2016.
+    - title: 23th Annual Scientific Initiation Conference, Brazil, 2016.
 
-#         - 3rd place at the 2022 AIChE undergraduate student poster competition award. Computing and Process Control Group II.
+- title: Ad Hoc Referee
+  type: list
+  contents:
+    - title: <a href=\"https://jrap.scholasticahq.com/">Journal of Regional Analysis & Policy</a>.
 
+- title: Awards, Fellowships and Grants
+  type: time_table
+  contents:
+    - year: 2021 - Currently
+      items:    
+        - Tuition Waiver and Graduate Research Assistant Stipend, West Virginia University
+    - year: 2017
+      items: 
+        - 30th Paraná Science and Technology Award (Issued by the <a href=\"https://www.seti.pr.gov.br/ppct">Secretariat of Science, Technology and Higher Education of the State of Paraná, Brazil)</a>.
+        - Best undergraduate research in Applied Social Sciences Award.
+    - year: 2016
+      items: 
+        - Best undergraduate research in Applied Social Sciences Award.
+    - year: 2016
+      items: 
+        - Graduate Research Assistantship Recipient, ARAUCARIA Foundation, Paraná, Brazil.          
+    - year: 2013 - 2015
+      items: 
+        - Undergraduate Research Assistantship Recipient, <a href=\"https://memoria.cnpq.br/pibic">National Council for Scientific and Technological Development, Brazil</a>.
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Process Operability Analysis
-#       items: 
-#         - Development of process operability algorithms and methodologies to facilitate the application in academia and industry, allowing synergy between conceptual design and overall objectives attainment of industrial processes.
-#     - title: Supervised machine learning applied to problems of engineering significance.
-#       items:
-#         - Expertise in using Gaussian Process Regression (GPR) for mapping of steady-state and dynamic process models of the chemical industry.
-#     - title: Plantwide control
-#       items:
-#         - Expertise in developing plantwide control strategies of large-scale, plantwide systems of the industry. 
-#         - Development of algorithms and tools to facilitate the obtainment of plantwide control structures.
+- title: Technical Skills
+  type: list
+  contents:
+    - title: R, Stata, Matlab, EViews, LaTex, Geoda, QGIS, and exposed to Python. 
 
 - title: Other Interests
   type: list
