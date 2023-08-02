@@ -15,8 +15,6 @@
       description:
         - Graduate Research Assistant at the Regional Research Institute (RRI). 
         - <u>GPA:<u> 3.89/4.00
-        - contents:
-            - Urban and Regional Economics and Health Economics areas of emphasis.
 
     - title: Master's Degree (M.A.), Economics
       institution: West Virginia University, USA
@@ -36,8 +34,9 @@
       institution: Western Paraná State University, Brazil
       year: Mar 2012 - Mar 2017
       description:
-        - <u>GPA:<u> 3.63/4.00
         - Honor <i> summa cum laude <i>.
+        - <u>GPA:<u> 3.63/4.00
+
 
 - title: Research Interests
   type: list
@@ -47,58 +46,57 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant
+    - title: Graduate Research Assistant
       institution: Regional Research Institute (RRI), West Virginia University
       year: 2021 - Currently
-      description:
-        - 
-    - title: Coordination and Research Assistant in Technological Innovation
+
+    - title: Research Assistant in Technological Innovation
       institution: Foundation for Supporting the Development of Education, Science and Technology of the State of Mato Grosso do Sul (Fundect), Brazil
       year: Mar 2019 - Jul 2021
-      description:
-        - Assistance in the activities of analysis and implementation of projects, in the organization of events and public calls of a scientific, technological, and innovative nature, in the management and promotion of innovation programs, and in the development of startups within the scope of the Foundation, integrated with the Living Lab MS - SEBRAE.        
+      # description:
+      #   - Assistance in the activities of analysis and implementation of projects, in the organization of events and public calls of a scientific, technological, and innovative nature, in the management and promotion of innovation programs, and in the development of startups within the scope of the Foundation, integrated with the Living Lab MS - SEBRAE.        
+
     - title: Chief of Quality and Research
       institution: Datasight Research and Consulting Ltda
-      year: 2017 - 2020
-      description:
-        - 
-    - title: Teaching Assistant
+      year: Jul 2017 - Mar 2020
+
+    - title: Teaching Assistant in Business Accounting
       institution: North Paraná University, Brazil
       year: 2019
-      description:
-        - Business Accounting
-    - title: Graduate Teaching Assistant
+
+    - title: Graduate Assistant
       institution: Western Paraná State University, Brazil
-      year: 2017
+      year: 2017 - 2019
       description:
-        - Econometrics    
+         - TA in Econometrics
+         - RA
+
     - title: Banking Intern
       institution: Sicoob Bank
       year: Jan 2016 - Jan 2017
-    - title: Undergraduate Teaching Assistant
+
+    - title: Undergraduate Teaching Assistant in Econometrics
       institution: Western Paraná State University, Brazil
       year: 2015 - 2016
-      description:
-        - Econometrics
 
 - title: Peer-reviewed Publications
   type: list
   contents:
-    - Welter, C.A., Cypriano, L., and Centuriao, D. (2021). Identification and Analysis of the Evolution of Local Productive Arrangements. <i>Journal of Regional Analysis and Policy<i>, 51 (2), 49-66.
-    - Centuriao, D.A.S., Welter, C.A. and Frainer, D.M. (2021). Comparison between cattle complexes. <i>Agricultural Policy Journal<i> 31 (2), 8-21 (in Portuguese).
-    - Welter, C.A., Paetzhold, T.P.S., Centuriao, D.A.S., and Schneider, M.B. (2021). The heterodox stabilization plans main effects for the Brazilian economy in the period from 1985 to 1989. <i>Brazilian Journal of Development<i>, 7 (3), 23814-23836 (in Portuguese).
-    - Centuriao, D.A.S., Welter, C.A. and Abrita, M.B. (2020). Business Challenges and Policy Suggestions in the Face of the Covid-19 Pandemic. <i>Economy in Review<i>, 28 (1), 54-65 (in Portuguese).
-    - Welter, C.A., Centuriao, D. A.S., Batista, A. M., and Rippel, R. (2020). Economic growth in Western Paraná an analysis based on regional indicators. <i>Parana Development Journal<i>, 41 (138), 159-176 (in Portuguese).
-    - Centuriao, D.A.S., Welter, C.A and Frainer, D.M. (2020). Development of the municipalities in Mato Grosso do Sul an analysis from a synthetic multidimensional indicator. <i>Brazilian Journal of the Environment<i>, 8 (4), 256-274. (in Portuguese).
-    - Gabriel, F.B.A., Centuriao, D.A.S., Welter, C.A. and Silva, G.O.V.P. da, (2020). Governance Structures and Transaction Attributes in the Ribas do Rio Pardo (MS) Agroindustrial Forest Complex. <i>REDES<i>, 25 (2), 762-781 (in Portuguese).
-    - Welter, C.A. and Centuriao, D.A.S. (2020). Economic growth in Mato Grosso do Sul polarization and heterogeneity. <i>GeoFronter<i> 25 (2), 01-23 (in Portuguese).
+    - "Welter, C.A., Cypriano, L., and Centuriao, D. (2021). Identification and Analysis of the Evolution of Local Productive Arrangements. <i>Journal of Regional Analysis and Policy</i>, 51 (2): 49-66."
+    - "Centuriao, D.A.S., Welter, C.A. and Frainer, D.M. (2021). Comparison between cattle complexes. <i>Agricultural Policy Journal</i> 31 (2): 8-21 (in Portuguese)."
+    - "Welter, C.A., Paetzhold, T.P.S., Centuriao, D.A.S., and Schneider, M.B. (2021). The heterodox stabilization plans: main effects for the Brazilian economy in the period from 1985 to 1989. <i>Brazilian Journal of Development</i>, 7 (3): 23814-23836 (in Portuguese)."
+    - "Centuriao, D.A.S., Welter, C.A. and Abrita, M.B. (2020). Business Challenges and Policy Suggestions in the Face of the Covid-19 Pandemic. <i>Economy in Review</i>, 28 (1): 54-65 (in Portuguese)."
+    - "Welter, C.A., Centuriao, D. A.S., Batista, A. M., and Rippel, R. (2020). Economic growth in Western Paraná: an analysis based on regional indicators. <i>Parana Development Journal</i>, 41 (138): 159-176 (in Portuguese)."
+    - "Centuriao, D.A.S., Welter, C.A and Frainer, D.M. (2020). Development of the municipalities in Mato Grosso do Sul: an analysis from a synthetic multidimensional indicator. <i>Brazilian Journal of the Environment</i>, 8 (4): 256-274. (in Portuguese)."
+    - "Gabriel, F.B.A., Centuriao, D.A.S., Welter, C.A. and Silva, G.O.V.P. da, (2020). Governance Structures and Transaction Attributes in the Ribas do Rio Pardo (MS) Agroindustrial Forest Complex. <i>REDES</i>, 25 (2): 762-781 (in Portuguese)."
+    - "Welter, C.A. and Centuriao, D.A.S. (2020). Economic growth in Mato Grosso do Sul: polarization and heterogeneity. <i>GeoFronter</i> 25 (2): 01-23 (in Portuguese)."
 
 - title: Conferences
   type: list
   contents:
     - 62th Annual Meetings Southern Regional Science Association (SRSA), Savannah - GA, USA, 2023.
     - 69th Annual North American Meetings of the Regional Science Association International (NARSC), Montreal - Canada, 2022.
-    - 61th Southern Regional Science Association (SRSA), Austin - TX, USA, 2022.
+    - 61th Annual Meetings Southern Regional Science Association (SRSA), Austin - TX, USA, 2022.
     - III International Meeting on Management, Development and Innovation, Brazil, 2019.
     - XIII Paraná Economics Meeting, Brazil, 2019.
     - 56th Brazilian Society of Economics, Administration and Rural Sociology Conference, Brazil, 2018.
@@ -110,28 +108,31 @@
 - title: Ad Hoc Referee
   type: list
   contents:
-    - <a href=\"https://jrap.scholasticahq.com\">Journal of Regional Analysis & Policy</a>.
+    - <a href="https://jrap.scholasticahq.com/">Journal of Regional Analysis & Policy</a>.
 
 - title: Awards, Fellowships and Grants
   type: time_table
   contents:
     - year: Aug 2021 - Currently
       items:    
-        - Tuition Waiver and Graduate Research Assistant Stipend, West Virginia University
-    - year: Mar 2019 - Jul 2021
+        - Tuition Waiver and Graduate Research Assistant Stipend, West Virginia University.
+    - year: May 2019 - Jul 2021
       items: 
-        - Coordination and Research Scholarship in Technological Innovation (CPIT), Foundation for Supporting the Development of Education, Science and Technology of the State of Mato Grosso do Sul, Brazil.      
+        - Coordination and Research Scholarship in Technological Innovation, Foundation for Supporting the Development of Education, Science and Technology of the State of Mato Grosso do Sul, Brazil.      
+    - year: Mar 2017 - Apr 2019
+      items: 
+        - Graduate Research Assistantship, <a href="https://memoria.cnpq.br/pibic/">National Council for Scientific and Technological Development</a>, Brazil.
     - year: 2017
       items: 
-        - 30th Paraná Science and Technology Award, <a href=\"https://www.seti.pr.gov.br/ppct\">Secretariat of Science, Technology and Higher Education of the State of Paraná, Brazil</a>.
-        - Best undergraduate research in Applied Social Sciences Award.
+        - 30th Paraná Science and Technology Award, <a href="https://www.seti.pr.gov.br/ppct/">Secretariat of Science, Technology and Higher Education of the State of Paraná</a>, Brazil.
+        - Best Undergraduate Research Award in Applied Social Sciences, Western Paraná State University.
     - year: 2016
       items: 
-        - Graduate Research Assistantship Recipient, ARAUCARIA Foundation, Paraná, Brazil.  
-        - Best undergraduate research in Applied Social Sciences Award.         
+        - Undergraduate Research Assistantship, <a href="https://www.fappr.pr.gov.br/">ARAUCARIA Foundation</a>, Paraná, Brazil.  
+        - Best Undergraduate Research Award in Applied Social Sciences, Western Paraná State University.         
     - year: 2013 - 2015
       items: 
-        - Undergraduate Research Assistantship Recipient, <a href=\"https://memoria.cnpq.br/pibic\">National Council for Scientific and Technological Development, Brazil</a>.
+        - Undergraduate Research Assistantship, <a href="https://memoria.cnpq.br/pibic/">National Council for Scientific and Technological Development</a>, Brazil.
 
 - title: Technical Skills
   type: list
