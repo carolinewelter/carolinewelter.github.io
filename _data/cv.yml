@@ -60,9 +60,9 @@
       institution: Datasight Research and Consulting Ltda
       year: Jul 2017 - Mar 2020
 
-    - title: Teaching Assistant in Business Accounting
-      institution: North Paraná University, Brazil
-      year: 2019
+    # - title: Teaching Assistant in Business Accounting
+    #   institution: North Paraná University, Brazil
+    #   year: 2019
 
     - title: Graduate Assistant
       institution: Western Paraná State University, Brazil
@@ -137,7 +137,7 @@
 - title: Technical Skills
   type: list
   contents:
-    - R, Stata, Matlab, EViews, LaTex, and exposure to Python.
+    - R, Stata, Matlab, EViews, LaTex, Markdown and exposure to Python.
     - Econometrics, Spatial Analysis, Causal Inference.
     - QGIS and GeoDa.
 
