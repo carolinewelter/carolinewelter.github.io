@@ -64,17 +64,17 @@
   contents:
     - title: Graduate Research Assistant
       institution: Regional Research Institute (RRI), West Virginia University
-      year: Fall 2021 - Currently
+      year: 2021 - Currently
 
     - title: Research Assistant in Technological Innovation
       institution: Foundation for Supporting the Development of Education, Science and Technology of the State of Mato Grosso do Sul (Fundect), Brazil
-      year: Spring 2019 - Summer 2021
+      year: 2019 - 2021
       # description:
       #   - Assistance in the activities of analysis and implementation of projects, in the organization of events and public calls of a scientific, technological, and innovative nature, in the management and promotion of innovation programs, and in the development of startups within the scope of the Foundation, integrated with the Living Lab MS - SEBRAE.        
 
     - title: Chief of Quality and Research
       institution: Datasight Research and Consulting, Brazil
-      year: Fall 2017 - Spring 2020
+      year: 2017 - 2020
 
     # - title: Teaching Assistant in Business Accounting
     #   institution: North Paraná University, Brazil
@@ -98,13 +98,13 @@
 - title: Awards, Fellowships and Grants
   type: time_table
   contents:
-    - year: Fall 2021 - Currently
+    - year: 2021 - Currently
       items:    
         - Tuition Waiver and Graduate Research Assistant Stipend, West Virginia University.
-    - year: Spring 2019 - Summer 2021
+    - year: 2019 - 2021
       items: 
         - Coordination and Research Scholarship Recipient in Technological Innovation, Foundation for Supporting the Development of Education, Science and Technology of the State of Mato Grosso do Sul, Brazil.      
-    - year: Spring 2017 - Spring 2019
+    - year: 2017 - 2019
       items: 
         - Graduate Research Assistant Stipend, <a href="https://memoria.cnpq.br/pibic/">National Council for Scientific and Technological Development</a>, Brazil.
     - year: 2017
