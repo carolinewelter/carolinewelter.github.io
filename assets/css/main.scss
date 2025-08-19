@@ -13,3 +13,9 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+.project-image,
+.publication img,
+.bibliography img {
+  display: none !important;
+}

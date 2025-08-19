@@ -6,7 +6,7 @@ description: My main research publications in peer-reviewed journals. For a comp
 nav: true
 nav_order: 1
 ---
-<!-- _pages/publications.md -->
+<!-- _pages/research.md -->
 <div class="research">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
