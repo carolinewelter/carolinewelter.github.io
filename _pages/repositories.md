@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: Here, you'll find a curated collection of my research projects repositories. These repositories are dedicated to fostering replicable work, enabling fellow researchers and enthusiasts to explore, collaborate, and build upon my findings.
 nav: true
-nav_order: 3
+nav_order: 5
 ---
 
 ## GitHub users

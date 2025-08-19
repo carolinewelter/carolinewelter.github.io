@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Below, you'll find projects that I am actively involved in or have been involved with.
 nav: true
-nav_order: 2
+nav_order: 4
 display_categories: work
 horizontal: false
 ---

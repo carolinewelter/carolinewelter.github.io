@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student in Economics @ <a href='https://rri.wvu.edu/'> Regional Research Institute at WVU </a>.
+subtitle: Ph.D. Candidate in Economics and Graduate Research Assistant at the <a href='https://rri.wvu.edu/'> Regional Research Institute at WVU </a>.
 
 profile:
   align: right
@@ -28,12 +28,11 @@ to the fields of Urban and Regional Economics, and now giving more emphasis to i
 - 
 - -->
 
-Greetings and welcome to my website!
+Hello there, welcome to my website!
 
-I am a Ph.D. candidate in Economics, currently in my 4th year at [West Virginia University](https://www.wvu.edu/). I hold both M.A. and B.Sc. degrees in the field. Throughout my academic journey, my research focus has revolved around the domains of Urban and Regional Economics, with a particular emphasis on its connection with Health Economics.
-<!-- My academic pursuits have also earned me the esteemed position of a Graduate Research Assistant at the renowned [Regional Research Institute](https://rri.wvu.edu/). In addition,  -->
+I am a Ph.D. candidate in Economics, currently in my 5th year at [West Virginia University](https://www.wvu.edu/). I hold both M.A. and B.Sc. degrees in the field. Throughout my academic journey, my research focus has revolved around the domains of Health Economics, with a particular emphasis on its connection with Urban and Regional Economics.
+<!-- My academic pursuits have also earned me the esteemed position of a Graduate Research Assistant at the renowned [Regional Research Institute](https://rri.wvu.edu/). -->
 
-<!-- My scholarly endeavors have led me to explore diverse topics, including Input-Output Modelling to tackle regional problems in Brazil as well as Applied Econometrics. More recently  -->
 I have been employing rigorous Causal Inference Methods to my research. The outcome of these research has been the publication of several research papers, which I am excited to share with you on this platform. Here, you will find an extensive collection of my published works, along with a detailed curriculum vitae that outlines my academic accomplishments, research contributions, and professional experiences.
 
-<!-- My current goal is to conduct further research on the design, modeling, control and assessment of chemical processes. Lastly, I have experience working with the industry, mainly the oil and gas, petrochemical and energy sectors. -->
+
