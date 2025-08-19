@@ -14,6 +14,7 @@ $max-content-width: {{ site.max_width }};
   "distill"
 ;
 
+/*
 .project-image,
 .publication img,
 .bibliography img {
@@ -25,5 +26,7 @@ $max-content-width: {{ site.max_width }};
 .pub-row .col-sm-3 { display: none; }
 .pub-row .col-sm-9 { width: 100%; flex: 0 0 100%; max-width: 100%; }
 
-/* Belt & suspenders: hide any leftover <img> or "Image:" label */
+/* Belt & suspenders: hide any leftover <img> or "Image:" label 
 .pub-row img, .pub-row a[aria-label="Image"], .pub-row a:has(img) { display: none !important; }
+
+*/
