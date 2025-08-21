@@ -9,7 +9,7 @@ download_name: Caroline_Welter_CV.pdf
 
 ---
 
-<!-- Display the PDF CV on the website page 
+<!-- Display the PDF CV on the website page -->
 
 <div class="cv-actions">
   <a class="btn btn-primary" href="{{ '/assets/pdf/cv.pdf' | relative_url }}" download>
@@ -32,5 +32,5 @@ download_name: Caroline_Welter_CV.pdf
   </p>
 </div>
 
--->
+
 
