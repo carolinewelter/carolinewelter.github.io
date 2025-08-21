@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Below, you'll find projects that I am actively involved in or have been involved with.
-nav: true
+nav: false
 nav_order: 4
 display_categories: work
 horizontal: false
