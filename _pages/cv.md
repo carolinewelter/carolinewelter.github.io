@@ -29,3 +29,6 @@ cv_pdf: cv.pdf
     <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}">Open the CV</a>.
   </p>
 </div>
+
+
+
