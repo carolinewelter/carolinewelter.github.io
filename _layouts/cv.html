@@ -1,13 +1,15 @@
 ---
 layout: page
 ---
-<!-- _layouts/cv.html (final) -->
+<!-- _layouts/cv.html (PDF via <embed>) -->
 
 {% assign cv_pdf = page.cv_pdf | default: '/assets/pdf/cv.pdf' %}
 {% assign download_name = page.download_name | default: 'Caroline_Welter_CV.pdf' %}
 
+<h1 class="post-title">{{ page.title }}</h1>
+
 <div class="cv-actions" style="text-align:center; margin:1.5rem 0 2rem;">
-  <a class="btn btn-primary" href="{{ cv_pdf | absolute_url }}" download="{{ download_name }}">
+  <a class="btn btn-primary" href="{{ cv_pdf | relative_url }}" download="{{ download_name }}">
     Download CV
   </a>
 </div>
@@ -17,11 +19,16 @@ layout: page
   border-radius:6px; box-shadow:0 10px 30px rgba(0,0,0,.15); overflow:hidden;">
   <div class="cv-topbar" style="height:60px; background:#1f1f1f;"></div>
 
-  <iframe
-    class="cv-iframe"
-    src="{{ cv_pdf | absolute_url }}#view=FitH"
-    title="Caroline Welter CV PDF"
-    style="display:block; width:100%; height:80vh; border:0; background:#fff;">
-  </iframe>
-</div>
+  <!-- Use <embed> for best cross-browser PDF rendering -->
+  <embed
+    src="{{ cv_pdf | relative_url }}#view=FitH"
+    type="application/pdf"
+    style="display:block; width:100%; height:80vh; border:0; background:#fff;" />
 
+  <noscript>
+    <p class="cv-fallback" style="margin:0; padding:0.75rem 1rem 1rem; color:#555; text-align:center;">
+      PDF viewer requires JavaScript.
+      <a href="{{ cv_pdf | relative_url }}">Open the CV</a>.
+    </p>
+  </noscript>
+</div>
