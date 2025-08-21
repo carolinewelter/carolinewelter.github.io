@@ -13,6 +13,17 @@ I am committed to creating inclusive, dynamic classroom environments where stude
 
 I also take an inclusive approach to assessment, using a mix of exams, quizzes, group projects, and alternative participation formats for students with restrictions. My goal is to ensure that every student has multiple pathways to succeed, while maintaining academic rigor.
 
+<ul class="doc-links">
+  <li>
+    <a class="doc-link"
+       href="{{ '/assets/pdf/Teaching_Statement.pdf' | relative_url }}"
+       download="Caroline_Welter_Teaching_Statement.pdf">
+      <span>Teaching Statement</span>
+      <i class="fas fa-file-pdf"></i>
+    </a>
+  </li>
+</ul>
+
 ---
 
 ## Instructor of Record
@@ -21,9 +32,8 @@ I also take an inclusive approach to assessment, using a mix of exams, quizzes, 
   - Book: *Microeconomics* by Glenn Hubbard and Anthony Patrick O’Brien  
   - [Download Syllabus (PDF)]({{ '/assets/pdf/econ201_syllabus.pdf' | relative_url }})
 
-
 - **Health Economics (ECON 465)** 
-  - Spring 2026
+  - Upcoming Spring 2026
   - Book: *Health Economics* by Bhattacharya, Hyde and Tu
   - [Download Syllabus (PDF)]({{ '/assets/pdf/econ465_syllabus.pdf' | relative_url }})
 
@@ -44,32 +54,21 @@ I also take an inclusive approach to assessment, using a mix of exams, quizzes, 
 ## Student Feedback
 I actively use mid-semester surveys and official evaluations to improve my teaching. Here are selected student comments on my instruction:
 
-> *"I enjoyed this course. The professor was able to teach the topics in various, engaging ways that kept our attention throughout the entire lecture. She was willing to work with students if they needed accommodations for something. The one piece of advice I would give is to add graded quizzes to the course. That way students can have opportunities to boost their grade and take away some of
-the stress of exams. Also, these quizzes could serve as a knowledge check so students can get an idea of what they know and what they need to study before the bigger exams."*
-
 > *"Dr. Welter did an amazing job for her first semester teaching, she was able to explain the topics. She definitely improved over the semester as we gave her feedback and listened to what we asked her to help us. When we asked for practice tests for the exam, she took time out of her day to make us a practice test. She has done an amazing job throughout the semester teaching us all the topics we needed to know."*
 
 > *"Caroline Welter was the best teacher I have ever had before. She was so helpful and always available during all hours to help me and all my questions."*
 
 > *"My professor was wonderful and made me switch my major to economics because I enjoyed the course thoroughly."*
 
----
+> *"I enjoyed this course. The professor was able to teach the topics in various, engaging ways that kept our attention throughout the entire lecture. She was willing to work with students if they needed accommodations for something. The one piece of advice I would give is to add graded quizzes to the course. That way students can have opportunities to boost their grade and take away some of
+the stress of exams. Also, these quizzes could serve as a knowledge check so students can get an idea of what they know and what they need to study before the bigger exams."*
 
-## Teaching Documents
 <ul class="doc-links">
   <li>
     <a class="doc-link"
-       href="{{ '/assets/pdf/Teaching_Statement.pdf' | relative_url }}"
-       download="Caroline_Welter_Teaching_Statement.pdf">
-      <span>Teaching Statement</span>
-      <i class="fas fa-file-pdf"></i>
-    </a>
-  </li>
-  <li>
-    <a class="doc-link"
-       href="{{ '/assets/pdf/Teaching_Portfolio.pdf' | relative_url }}"
-       download="Caroline_Welter_Teaching_Portfolio.pdf">
-      <span>Teaching Portfolio</span>
+       href="{{ '/assets/pdf/teaching_evals.pdf' | relative_url }}"
+       download="Caroline_Welter_Teaching_Evaluation.pdf">
+      <span>Full Course Evaluations (Teaching Effectiveness) </span>
       <i class="fas fa-file-pdf"></i>
     </a>
   </li>
