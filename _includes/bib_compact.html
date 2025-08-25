@@ -1,16 +1,28 @@
 
 
 
-<li class="bib-item">
-  <span class="bib-cite">{{ reference }}</span>
-  {% assign link = entry.url | default: entry.html | default: entry.pdf %}
-  {% if link %}
-    <a class="bib-link" href="{{ link }}" target="_blank" rel="noopener" aria-label="Open paper">
-      <!-- tiny external-link icon -->
-      <svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
-        <path d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42 9.3-9.29H14V3z"></path>
-        <path d="M5 5h6v2H7v10h10v-4h2v6H5V5z"></path>
-      </svg>
-    </a>
-  {% endif %}
+{%- comment -%}
+Compact bibliography item:
+- No numbering or action pills
+- Title is the link (prefers url > pdf > doi)
+- Clean “Authors. Title. Journal Vol(Issue), pages, Year.” line
+- Works with Jekyll Scholar’s {% bibliography %} --template bib_compact
+{%- endcomment -%}
+
+{%- assign link = entry.url | default: entry.pdf | default: entry.doi -%}
+<li class="bib-entry">
+  <div class="bib-meta">
+    <span class="bib-authors">{{ entry.author }}</span>.
+    {%- if link -%}
+      <span class="bib-title"><a href="{{ link | prepend: entry.doi and 'https://doi.org/' | default: '' }}">{{ entry.title }}</a></span>.
+    {%- else -%}
+      <span class="bib-title">{{ entry.title }}</span>.
+    {%- endif -%}
+    {%- if entry.journal %} <em>{{ entry.journal }}</em>{% endif -%}
+    {%- if entry.booktitle %} <em>{{ entry.booktitle }}</em>{% endif -%}
+    {%- if entry.volume %} {{ entry.volume }}{% endif -%}
+    {%- if entry.number %}({{ entry.number }}){% endif -%}
+    {%- if entry.pages %}, {{ entry.pages }}{% endif -%}
+    {%- if entry.year %}, {{ entry.year }}{% endif -%}.
+  </div>
 </li>

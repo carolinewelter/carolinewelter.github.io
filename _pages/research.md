@@ -33,7 +33,7 @@ This paper estimates the impact of Social Security Administration (SSA) field of
 <a href="{{ '/assets/pdf/jmp.pdf' | relative_url }}" 
    class="pdf-download" 
    download="Caroline_Welter_JMP.pdf">
-  <span>Download Job Market Paper</span>
+  <span>*Download Job Market Paper*</span>
   <i class="fas fa-file-pdf"></i>
 </a>
 
@@ -47,11 +47,11 @@ This paper estimates the impact of Social Security Administration (SSA) field of
 - **Regional Economic Impacts of COVID-19 Lockdowns and Mitigation Effects of Stimulus Checks and Unemployment Insurance**, with Daniel Centuriao, Amir Neto, and Fernando Perobelli.  
   *Forthcoming, Economic Analysis and Policy*.
 
-- **Identification and Analysis of the Evolution of Local Productive Arrangements**, with Daniel Centuriao and Luiz Cypriano.  
-  *Journal of Regional Analysis & Policy*, 51(2), 49–66. [**Link**](https://jrip.scholasticahq.com/article/18918)
+- **Identification and Analysis of the Evolution of Local Productive Arrangements**, (2021), with Daniel Centuriao and Luiz Cypriano.  
+  *Journal of Regional Analysis & Policy*, 51(2), 49–66. [Link](https://jrip.scholasticahq.com/article/18918)
 
 
-Publications in Portuguese
+\_Other Publications\_
 <details>
   <summary><strong>Click to view full list</strong></summary>
 
@@ -71,9 +71,9 @@ Publications in Portuguese
 
 ## Working Papers
 - **Aggregation Bias and Input-Output Regionalization: Detail or Accuracy?**  
-  Regional Research Institute Working Paper, with Randall Jackson. [**Link**](https://researchrepository.wvu.edu/rri_pubs/221/)
+  Regional Research Institute Working Paper, with Randall Jackson. [Link](https://researchrepository.wvu.edu/rri_pubs/221/)
 
-- **Is Obesity Affected by Urban Sprawl? Evidence from Brazil**, with Jane Ruseski. [**Link**](https://researchrepository.wvu.edu/rri_pubs/221/)
+- **Is Obesity Affected by Urban Sprawl? Evidence from Brazil**, with Jane Ruseski. [Link](https://researchrepository.wvu.edu/rri_pubs/221/)
 
 
 ---
