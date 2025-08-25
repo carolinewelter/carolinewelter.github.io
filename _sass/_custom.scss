@@ -61,57 +61,16 @@
   opacity: 0.85;
 }
 
-/* Hide BibTeX/details blocks */
-.bibliography pre,
-.bibliography code,
-.bibliography .details,
-.bibliography .bibtex,
-.bibliography .csl-entry + pre {
-  display: none !important;
-}
-
-/* Remove any reserved “image slot” */
-.bibliography .thumb,
-.bibliography .teaser,
-.bibliography .pub-image,
-.bibliography .entry-image,
-.bibliography .csl-left-margin img {
-  display: none !important;
-}
-
-/* Compact list spacing */
-.bibliography,
-.bibliography ul {
-  margin: 0;
-  padding: 0;
-}
-.bibliography li {
-  list-style: decimal inside;
-  margin: 0.2rem 0;
-  line-height: 1.35;
-}
-
-/* Tighter year headings */
-.bibliography h3,
-.bibliography .year,
-.pub-year {
-  margin: 0.8rem 0 0.25rem;
-}
-
-/* Optional: inline icon for the link we add in bib_compact.html */
-.bib-item {
-  display: flex;
-  gap: 0.4rem;
-  align-items: baseline;
-}
-.bib-link {
-  text-decoration: none;
-  display: inline-flex;
-}
 
 
+/* Remove numbering from Jekyll-Scholar lists */
+ol.bibliography { list-style: none; padding-left: 0; margin-left: 0; }
+ol.bibliography > li { margin-left: 0; }
 
-/* Compact bibliography list look */
-.bibliography { list-style: none; padding-left: 0; margin-left: 0; }
+/* APA blocks */
 .bib-entry { margin: 0 0 1rem 0; }
-.bib-entry .title a { text-decoration: none; }
+.bib-entry .apa-line { margin-bottom: 0.15rem; }
+.bib-entry .apa-title a { text-decoration: none; }
+.bib-entry .apa-venue em { font-style: italic; }
+.bib-entry .apa-doi a { word-break: break-all; font-size: 0.95em; }
+

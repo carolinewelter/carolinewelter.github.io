@@ -1,113 +1,96 @@
 ---
 ---
 {%- comment -%}
-Compact Jekyll‑Scholar entry template
-- No thumbnail/abbr column
-- No action pills (Abs/HTML/Bib/PDF/etc.) and no badges
-- Title is the link (prefers url > pdf > doi)
-- Clean line for venue/year/pages
+APA-style Jekyll Scholar entry template (compact)
+- No preview/thumb, no action pills or badges
+- Year headings come from `--group_by year` in the calling page
+- Authorship: "Last, F. M., Last, F. M., & Last, F. M."
+- Reference: Authors (Year). Title. <em>Journal</em>, <em>Volume</em>(Issue), pages. DOI/URL
 {%- endcomment -%}
 
-{%- assign link = entry.url | default: entry.pdf -%}
-{%- unless link -%}
-  {%- if entry.doi -%}
-    {%- assign link = 'https://doi.org/' | append: entry.doi -%}
+{%- comment -%} Build APA-style author string {%- endcomment -%}
+{%- capture apa_authors -%}
+  {%- assign n = entry.author_array | size -%}
+  {%- for a in entry.author_array -%}
+    {%- assign initials = "" -%}
+    {%- assign first_parts = a.first | split: ' ' -%}
+    {%- for fp in first_parts -%}
+      {%- capture initials -%}{{ initials }}{{ fp | slice: 0, 1 | upcase }}.{%- endcapture -%}
+    {%- endfor -%}
+    {%- assign name_formatted = a.last | append: ", " | append: initials -%}
+
+    {%- if forloop.last and n > 1 -%}
+      &nbsp;&amp;&nbsp;{{ name_formatted }}
+    {%- elsif forloop.first -%}
+      {{ name_formatted }}
+    {%- else -%}
+      , {{ name_formatted }}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endcapture -%}
+
+{%- comment -%} Choose best link target (DOI > URL > PDF) {%- endcomment -%}
+{%- assign doi_link = nil -%}
+{%- if entry.doi %}{% assign doi_link = 'https://doi.org/' | append: entry.doi %}{% endif -%}
+{%- assign best_link = doi_link | default: entry.url | default: entry.pdf -%}
+
+{%- comment -%} Pieces for periodical line {%- endcomment -%}
+{%- assign proceedings = "inproceedings,incollection" | split: ',' -%}
+{%- assign thesis = "thesis,mastersthesis,phdthesis" | split: ',' -%}
+
+{%- capture venue -%}
+  {%- if entry.type == "article" and entry.journal -%}
+    <em>{{ entry.journal }}</em>
+  {%- elsif proceedings contains entry.type and entry.booktitle -%}
+    <em>{{ entry.booktitle }}</em>
+  {%- elsif thesis contains entry.type and entry.school -%}
+    <em>{{ entry.school }}</em>
+  {%- elsif entry.booktitle -%}
+    <em>{{ entry.booktitle }}</em>
   {%- endif -%}
-{%- endunless -%}
+{%- endcapture -%}
+
+{%- capture vol_issue -%}
+  {%- if entry.volume %}<em>{{ entry.volume }}</em>{% endif -%}
+  {%- if entry.number %}({{ entry.number }}){% endif -%}
+{%- endcapture -%}
+
+{%- capture pages -%}{% if entry.pages %}{{ entry.pages }}{% endif -%}{%- endcapture -%}
+{%- capture year -%}{% if entry.year %}{{ entry.year }}{% endif -%}{%- endcapture -%}
 
 <div id="{{ entry.key }}" class="bib-entry card mt-3 p-3">
 
-  <!-- Title (clickable if we have a link) -->
-  <div class="title font-weight-medium">
-    {%- if link -%}
-      <a href="{{ link }}">{{ entry.title }}</a>
-    {%- else -%}
-      {{ entry.title }}
-    {%- endif -%}
+  <!-- Authors and year -->
+  <div class="apa-line">
+    <span class="apa-authors">{{ apa_authors | strip }}</span>
+    {% if year %} (<span class="apa-year">{{ year }}</span>).{% endif %}
   </div>
 
-  <!-- Authors (your name italicized; coauthors linked if in _data/coauthors) -->
-  <div class="author">
-    {%- assign author_array_size = entry.author_array | size -%}
-    {%- assign author_array_limit = author_array_size -%}
-    {%- if site.max_author_limit and author_array_size > site.max_author_limit -%}
-      {%- assign author_array_limit = site.max_author_limit -%}
-    {%- endif -%}
-
-    {%- for author in entry.author_array limit: author_array_limit -%}
-      {%- assign author_is_self = false -%}
-      {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
-      {%- if site.scholar.last_name contains author_last_name -%}
-        {%- if site.scholar.first_name contains author.first -%}
-          {%- assign author_is_self = true -%}
-        {%- endif -%}
-      {%- endif -%}
-
-      {%- assign coauthor_url = nil -%}
-      {%- if site.data.coauthors[author_last_name] -%}
-        {%- for co in site.data.coauthors[author_last_name] -%}
-          {%- if co.firstname contains author.first -%}
-            {%- assign coauthor_url = co.url -%}
-            {%- break -%}
-          {%- endif -%}
-        {%- endfor -%}
-      {%- endif -%}
-
-      {%- if forloop.length > 1 -%}
-        {%- if forloop.first == false -%},&nbsp;{%- endif -%}
-        {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
-      {%- endif -%}
-
-      {%- if author_is_self -%}
-        <em>{{ author.first }} {{ author.last }}</em>
-      {%- else -%}
-        {%- if coauthor_url -%}
-          <a href="{{ coauthor_url }}">{{ author.first }} {{ author.last }}</a>
-        {%- else -%}
-          {{ author.first }} {{ author.last }}
-        {%- endif -%}
-      {%- endif -%}
-    {%- endfor -%}
-
-    {%- assign more_authors = author_array_size | minus: author_array_limit -%}
-    {%- if more_authors > 0 -%}
-      , and {{ more_authors }} more author{% if more_authors > 1 %}s{% endif %}
-    {%- endif -%}
+  <!-- Title -->
+  <div class="apa-title">
+    {% if best_link %}
+      <a href="{{ best_link }}">{{ entry.title }}</a>.
+    {% else %}
+      {{ entry.title }}.
+    {% endif %}
   </div>
 
-  <!-- Venue / periodical line -->
-  {%- assign proceedings = "inproceedings,incollection" | split: ',' -%}
-  {%- assign thesis = "thesis,mastersthesis,phdthesis" | split: ',' -%}
-  {%- capture venue -%}
-    {%- if entry.type == "article" and entry.journal -%}
-      <em>{{ entry.journal }}</em>
-    {%- elsif proceedings contains entry.type and entry.booktitle -%}
-      <em>In {{ entry.booktitle }}</em>
-    {%- elsif thesis contains entry.type and entry.school -%}
-      <em>{{ entry.school }}</em>
-    {%- elsif entry.booktitle -%}
-      <em>{{ entry.booktitle }}</em>
-    {%- endif -%}
-  {%- endcapture -%}
-
-  {%- capture vol_issue -%}
-    {%- if entry.volume %} {{ entry.volume }}{%- endif -%}
-    {%- if entry.number %}({{ entry.number }}){%- endif -%}
-  {%- endcapture -%}
-
-  {%- capture pages %}{% if entry.pages %}{{ entry.pages }}{% endif %}{%- endcapture -%}
-  {%- capture year %}{% if entry.year %}{{ entry.year }}{% endif %}{%- endcapture -%}
-
-  <div class="periodical">
-    {{- venue -}}
-    {%- if venue and (vol_issue or pages or year) -%}, {% endif -%}
-    {{- vol_issue -}}
-    {%- if vol_issue and pages -%}, {{ pages }}{%- endif -%}
-    {%- if (vol_issue or pages) and year -%}, {{ year }}{%- elsif (not vol_issue) and (not pages) -%} {{ year }}{%- endif -%}
+  <!-- Venue, volume(issue), pages -->
+  <div class="apa-venue">
+    {{ venue }}
+    {%- if venue and (vol_issue or pages) -%}, {% endif -%}
+    {{ vol_issue }}{%- if vol_issue and pages -%}, {{ pages }}{%- endif -%}.
   </div>
 
-  {%- if entry.note %}
-    <div class="periodical">{{ entry.note | strip }}</div>
-  {%- endif -%}
+  <!-- DOI / URL (APA prefers DOI) -->
+  {% if doi_link %}
+    <div class="apa-doi"><a href="{{ doi_link }}">{{ doi_link }}</a></div>
+  {% elsif entry.url %}
+    <div class="apa-doi"><a href="{{ entry.url }}">{{ entry.url }}</a></div>
+  {% endif %}
+
+  {% if entry.note %}
+    <div class="apa-note">{{ entry.note | strip }}</div>
+  {% endif %}
 
 </div>
