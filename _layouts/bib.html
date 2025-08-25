@@ -1,11 +1,10 @@
 ---
 ---
 {%- comment -%}
-APA-style Jekyll Scholar entry template (compact)
-- No preview/thumb, no action pills or badges
-- Year headings come from `--group_by year` in the calling page
-- Authorship: "Last, F. M., Last, F. M., & Last, F. M."
-- Reference: Authors (Year). Title. <em>Journal</em>, <em>Volume</em>(Issue), pages. DOI/URL
+APA-style Jekyll Scholar entry template
+- No preview/thumb, no pills or badges
+- Year headings come from `--group_by year` in the page call
+- Reference: Authors (Year). Title. *Journal, Volume*(Issue), pages. DOI/URL
 {%- endcomment -%}
 
 {%- comment -%} Build APA-style author string {%- endcomment -%}
@@ -29,22 +28,14 @@ APA-style Jekyll Scholar entry template (compact)
   {%- endfor -%}
 {%- endcapture -%}
 
-{%- comment -%} Choose best link target (DOI > URL > PDF) {%- endcomment -%}
+{%- comment -%} Choose best link (DOI > URL > PDF) {%- endcomment -%}
 {%- assign doi_link = nil -%}
 {%- if entry.doi %}{% assign doi_link = 'https://doi.org/' | append: entry.doi %}{% endif -%}
 {%- assign best_link = doi_link | default: entry.url | default: entry.pdf -%}
 
-{%- comment -%} Pieces for periodical line {%- endcomment -%}
-{%- assign proceedings = "inproceedings,incollection" | split: ',' -%}
-{%- assign thesis = "thesis,mastersthesis,phdthesis" | split: ',' -%}
-
 {%- capture venue -%}
   {%- if entry.type == "article" and entry.journal -%}
     <em>{{ entry.journal }}</em>
-  {%- elsif proceedings contains entry.type and entry.booktitle -%}
-    <em>{{ entry.booktitle }}</em>
-  {%- elsif thesis contains entry.type and entry.school -%}
-    <em>{{ entry.school }}</em>
   {%- elsif entry.booktitle -%}
     <em>{{ entry.booktitle }}</em>
   {%- endif -%}
@@ -58,39 +49,33 @@ APA-style Jekyll Scholar entry template (compact)
 {%- capture pages -%}{% if entry.pages %}{{ entry.pages }}{% endif -%}{%- endcapture -%}
 {%- capture year -%}{% if entry.year %}{{ entry.year }}{% endif -%}{%- endcapture -%}
 
-<div id="{{ entry.key }}" class="bib-entry card mt-3 p-3">
+<div id="{{ entry.key }}" class="bib-entry apa-ref">
 
-  <!-- Authors and year -->
-  <div class="apa-line">
-    <span class="apa-authors">{{ apa_authors | strip }}</span>
-    {% if year %} (<span class="apa-year">{{ year }}</span>).{% endif %}
-  </div>
+  <p>
+    <!-- Authors -->
+    {{ apa_authors | strip }}
+    {% if year %} ({{ year }}).{% endif %}
 
-  <!-- Title -->
-  <div class="apa-title">
+    <!-- Title -->
     {% if best_link %}
       <a href="{{ best_link }}">{{ entry.title }}</a>.
     {% else %}
       {{ entry.title }}.
     {% endif %}
-  </div>
 
-  <!-- Venue, volume(issue), pages -->
-  <div class="apa-venue">
+    <!-- Venue -->
     {{ venue }}
     {%- if venue and (vol_issue or pages) -%}, {% endif -%}
     {{ vol_issue }}{%- if vol_issue and pages -%}, {{ pages }}{%- endif -%}.
-  </div>
 
-  <!-- DOI / URL (APA prefers DOI) -->
-  {% if doi_link %}
-    <div class="apa-doi"><a href="{{ doi_link }}">{{ doi_link }}</a></div>
-  {% elsif entry.url %}
-    <div class="apa-doi"><a href="{{ entry.url }}">{{ entry.url }}</a></div>
-  {% endif %}
-
-  {% if entry.note %}
-    <div class="apa-note">{{ entry.note | strip }}</div>
-  {% endif %}
+    <!-- Inline DOI/URL -->
+    {% if doi_link %}
+      <a href="{{ doi_link }}">{{ doi_link }}</a>
+    {% elsif entry.url %}
+      <a href="{{ entry.url }}">{{ entry.url }}</a>
+    {% elsif entry.pdf %}
+      <a href="{{ entry.pdf }}">{{ entry.pdf }}</a>
+    {% endif %}
+  </p>
 
 </div>

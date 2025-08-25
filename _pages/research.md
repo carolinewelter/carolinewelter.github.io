@@ -51,9 +51,9 @@ This paper estimates the impact of Social Security Administration (SSA) field of
   *Journal of Regional Analysis & Policy*, 51(2), 49–66. [Link](https://jrip.scholasticahq.com/article/18918)
 
 
-<u>Other Publications</u>.
+
 <details>
-  <summary><strong>Click to view full list</strong></summary>
+  <summary><strong>Other Publications: click to view full list</strong></summary>
 
 {% bibliography
    --file papers
