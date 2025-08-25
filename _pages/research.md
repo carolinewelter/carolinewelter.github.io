@@ -28,14 +28,19 @@ See my [**Google Scholar profile**](https://scholar.google.com/citations?user=33
 ## Job Market Paper
 **The Impact of SSA Field Office Closures on Disability Program Participation**  
 
-This paper estimates the impact of Social Security Administration (SSA) field office closures on participation in federal disability benefit programs. I exploit the uniform, nationwide closure of over 1,200 SSA field offices during the COVID-19 lockdown period as a natural experiment. Using a difference-in-differences framework, I compare changes in the number of newly enrolled disabled beneficiaries across ZIP codes with and without a local SSA office. The results show that, on average, closures reduced the number of new disability beneficiaries by 2.3%. The effects are significantly larger in non-metropolitan areas (-9.4%) and in communities with low internet access (-3.5%), suggesting that limited digital infrastructure exacerbated the barriers imposed by the loss of in-person services. These findings provide evidence that in-person administrative access plays a vital role in facilitating disability program enrollment, particularly for vulnerable and digitally underserved populations.  
+This paper estimates the impact of Social Security Administration (SSA) field office closures on participation in federal disability benefit programs. I exploit the uniform, nationwide closure of over 1,200 SSA field offices during the COVID-19 lockdown period as a natural experiment. Using a difference-in-differences framework, I compare changes in the number of newly enrolled disabled beneficiaries across ZIP codes with and without a local SSA office. The results show that, on average, closures reduced the number of new disability beneficiaries by 2.3%. The effects are significantly larger in non-metropolitan areas (-9.4%) and in communities with low internet access (-3.5%), suggesting that limited digital infrastructure exacerbated the barriers imposed by the loss of in-person services. These findings provide evidence that in-person administrative access plays a vital role in facilitating disability program enrollment, particularly for vulnerable and digitally underserved populations. 
 
-<a href="{{ '/assets/pdf/jmp.pdf' | relative_url }}" 
-   class="pdf-download" 
-   download="Caroline_Welter_JMP.pdf">
-  <span>*Download Job Market Paper*</span>
-  <i class="fas fa-file-pdf"></i>
-</a>
+<ul class="doc-links">
+  <li>
+    <a class="doc-link"
+       href="{{ '/assets/pdf/jmp.pdf' | relative_url }}"
+       download="Caroline_Welter_JMP.pdf">
+      <span>Download Job Market Paper</span>
+      <i class="fas fa-file-pdf"></i>
+    </a>
+  </li>
+</ul>
+
 
 ---
 
@@ -53,7 +58,7 @@ This paper estimates the impact of Social Security Administration (SSA) field of
 
 
 <details>
-  <summary><strong>Other Publications: click to view full list</strong></summary>
+  <summary><strong>*Other Publications: click to view full list*</strong></summary>
 
 {% bibliography
    --file papers
