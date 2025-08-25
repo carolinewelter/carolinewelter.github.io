@@ -10,15 +10,18 @@ nav_order: 2
 
 My research lies at the intersection of health economics, regional and urban economics, and public policy. I investigate how health disparities, access to care, and well-being policies unfold across space and socioeconomic lines. I am particularly interested in the heterogeneous effects of public programs and structural barriers that disproportionately affect vulnerable populations, including those in rural areas and communities facing increased challenges due to the shift to online services and the effects of automation. My work emphasizes how place and policy interact to shape program participation, labor market outcomes, and health.  
 
-See my [Google Scholar profile](https://scholar.google.com/citations?user=33jW5MgAAAAJ&hl=en&oi=ao) for a full list of publications and citations.
+See my [**Google Scholar profile**](https://scholar.google.com/citations?user=33jW5MgAAAAJ&hl=en&oi=ao) for a full list of publications and citations.
 
-<a href="{{ '/assets/pdf/research_statement.pdf' | relative_url }}" 
-   class="pdf-download" 
-   download="Caroline_Welter_Research_Statement.pdf">
-  <span>Research Statement</span>
-  <i class="fas fa-file-pdf"></i>
-</a>
-
+<ul class="doc-links">
+  <li>
+    <a class="doc-link"
+       href="{{ '/assets/pdf/Research_Statement.pdf' | relative_url }}"
+       download="Caroline_Welter_Research_Statement.pdf">
+      <span>Research Statement</span>
+      <i class="fas fa-file-pdf"></i>
+    </a>
+  </li>
+</ul>
 
 ---
 
@@ -45,15 +48,32 @@ This paper estimates the impact of Social Security Administration (SSA) field of
   *Forthcoming, Economic Analysis and Policy*.
 
 - **Identification and Analysis of the Evolution of Local Productive Arrangements**, with Daniel Centuriao and Luiz Cypriano.  
-  *Journal of Regional Analysis & Policy*, 51(2), 49–66. [Link](https://jrip.scholasticahq.com/article/18918)
+  *Journal of Regional Analysis & Policy*, 51(2), 49–66. [**Link**](https://jrip.scholasticahq.com/article/18918)
+
+
+Publications in Portuguese
+<details>
+  <summary><strong>Click to view full list</strong></summary>
+
+{% bibliography
+   --file papers
+   --query @*[language=pt]
+   --group_by year
+   --group_order descending
+   --details false
+   --template bib_compact
+%}
+
+</details>
+
 
 ---
 
 ## Working Papers
 - **Aggregation Bias and Input-Output Regionalization: Detail or Accuracy?**  
-  Regional Research Institute Working Paper, with Randall Jackson. [Link](https://researchrepository.wvu.edu/rri_pubs/221/)
+  Regional Research Institute Working Paper, with Randall Jackson. [**Link**](https://researchrepository.wvu.edu/rri_pubs/221/)
 
-- **Is Obesity Affected by Urban Sprawl? Evidence from Brazil**, with Jane Ruseski. [Link](https://researchrepository.wvu.edu/rri_pubs/221/)
+- **Is Obesity Affected by Urban Sprawl? Evidence from Brazil**, with Jane Ruseski. [**Link**](https://researchrepository.wvu.edu/rri_pubs/221/)
 
 
 ---
@@ -64,9 +84,3 @@ This paper estimates the impact of Social Security Administration (SSA) field of
 
 ---
 
-## Publications in Portuguese
-<details>
-  <summary><strong>Click to view full list</strong></summary>
-
-{% bibliography --file papers --query @*[language=pt] %}
-</details>

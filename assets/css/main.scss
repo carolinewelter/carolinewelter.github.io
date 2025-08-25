@@ -15,20 +15,3 @@ $max-content-width: {{ site.max_width }};
   "custom"
 ;
 
-/*
-.project-image,
-.publication img,
-.bibliography img {
-  display: none !important;
-}
-
-
-/* Hide the left image column entirely if present 
-.pub-row .col-sm-3 { display: none; }
-.pub-row .col-sm-9 { width: 100%; flex: 0 0 100%; max-width: 100%; }
-
-
-/* Belt & suspenders: hide any leftover <img> or "Image:" label 
-.pub-row img, .pub-row a[aria-label="Image"], .pub-row a:has(img) { display: none !important; }
-
-*/

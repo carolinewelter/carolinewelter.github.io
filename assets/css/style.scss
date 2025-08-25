@@ -1,0 +1,42 @@
+---
+---
+
+/* Import the theme's default styles */
+@import "{{ site.theme }}";
+
+/* Then override as needed */
+
+/* Hide BibTeX/details blocks */
+.bibliography pre,
+.bibliography code,
+.bibliography .details,
+.bibliography .bibtex,
+.bibliography .csl-entry + pre {
+  display: none !important;
+}
+
+/* Remove the empty image slot */
+.bibliography .thumb,
+.bibliography .teaser,
+.bibliography .pub-image,
+.bibliography .csl-left-margin img {
+  display: none !important;
+}
+
+/* Tighter list spacing */
+.bibliography, .bibliography ul {
+  margin: 0;
+  padding: 0;
+}
+.bibliography li {
+  list-style: decimal inside;
+  margin: 0.2rem 0;
+  line-height: 1.35;
+}
+
+/* Tighten year headings */
+.bibliography h3,
+.bibliography .year,
+.pub-year {
+  margin: 0.8rem 0 0.25rem;
+}

@@ -7,7 +7,11 @@
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
   {%- endif -%}
   {% include head.html %}
-  </head>
+
+  <!-- Add your custom stylesheet here -->
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+
+</head>
 
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
@@ -59,4 +63,6 @@
     {% include scripts/analytics.html %}
     {% include scripts/progressBar.html %}
   </body>
+
+
 </html>
