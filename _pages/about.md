@@ -50,7 +50,8 @@ Here are my statements:
 
 **Hello there, welcome to my website!**
 
-I am a **Ph.D. candidate in Economics** at **West Virginia University**, currently in my 5th year and on the **2025–26 academic job market**.  
+I am a **Ph.D. candidate in Economics** at **West Virginia University**, currently in my 5th year and on the **2025–26 job market**.  
+
 My research lies at the intersection of **Health Economics** and **Urban & Regional Economics**, with a focus on how place and policy design shape access to public programs, health, and economic opportunity. Methodologically, I use **causal inference with administrative, spatial, and survey data** to study distributional effects across rural and digitally underserved populations.
 
 ---
@@ -62,44 +63,43 @@ This paper estimates how the nationwide closures of Social Security Administrati
 
 Closures reduced new disability beneficiaries by **2.3% overall**, with larger declines in **non-metropolitan areas (–9.4%)** and **low-internet communities (–3.5%)**, showing that in-person administrative access remains vital for vulnerable populations.
 
-<a href="{{ '/assets/pdf/jmp.pdf' | relative_url }}" class="pdf-download" download="Caroline_Welter_JMP.pdf">
-  <span>Download Job Market Paper</span>
-  <i class="fas fa-file-pdf"></i>
-</a>
+<ul class="doc-links">
+  <li>
+    <a class="doc-link"
+       href="{{ '/assets/pdf/jmp.pdf' | relative_url }}"
+       download="Caroline_Welter_JMP.pdf">
+      <span>Download Job Market Paper</span>
+      <i class="fas fa-file-pdf"></i>
+    </a>
+  </li>
+</ul>
 
 ---
 
 ## Research & Teaching Statements
-<a class="pdf-download"
-   href="{{ '/assets/pdf/Research_Statement.pdf' | relative_url }}"
-   download="Caroline_Welter_Research_Statement.pdf">
-  <span>Research Statement</span>
-  <i class="fas fa-file-pdf"></i>
-</a>
+<ul class="doc-links">
+  <li>
+    <a class="doc-link"
+       href="{{ '/assets/pdf/Research_Statement.pdf' | relative_url }}"
+       download="Caroline_Welter_Research_Statement.pdf">
+      <span>Research Statement</span>
+      <i class="fas fa-file-pdf"></i>
+    </a>
+  </li>
+  <li>
+    <a class="doc-link"
+       href="{{ '/assets/pdf/Teaching_Ctatement.pdf' | relative_url }}"
+       download="Caroline_Welter_Teaching_Statement.pdf">
+      <span>Teaching Statement</span>
+      <i class="fas fa-file-pdf"></i>
+    </a>
+  </li>
+</ul>
 
-<a class="pdf-download"
-   href="{{ '/assets/pdf/Teaching_Statement.pdf' | relative_url }}"
-   download="Caroline_Welter_Teaching_Statement.pdf">
-  <span>Teaching Statement</span>
-  <i class="fas fa-file-pdf"></i>
-</a>
-
----
-
-## Quick Links
-- [Curriculum Vitae](/cv/)  
-- [Research](/research/) — publications, working papers, and projects  
-- [Teaching](/teaching/) — courses, evaluations, and philosophy  
-
----
-
-## News & Updates
-- Forthcoming paper in *Papers in Regional Science* on NYC climate resilience.  
-- Forthcoming paper in *Economic Analysis and Policy* on regional impacts of COVID-19 lockdown and mitigation policies.  
 
 ---
 
-📩 **Contact:** `caroline.welter@mail.wvu.edu`  
+📩 **Contact:** **caroline.welter@mail.wvu.edu**  
 🔗 **LinkedIn:** [linkedin.com/in/caroline-welter](https://www.linkedin.com/in/caroline-welter)  
 
 
