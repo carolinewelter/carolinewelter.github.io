@@ -52,7 +52,9 @@ Here are my statements:
 
 I am a **Ph.D. candidate in Economics** at **West Virginia University**, currently in my 5th year and on the **2025–26 job market**.  
 
-My research lies at the intersection of **Health Economics** and **Urban & Regional Economics**, with a focus on how place and policy design shape access to public programs, health, and economic opportunity. Methodologically, I use **causal inference with administrative, spatial, and survey data** to study distributional effects across rural and digitally underserved populations.
+My research lies at the intersection of **Health Economics** and **Urban & Regional Economics**, with a focus on how place and policy design shape access to public programs, health, and economic opportunity. 
+
+Methodologically, I use **causal inference** with administrative, spatial, and survey data to study distributional effects across rural and digitally underserved populations.
 
 ---
 
@@ -68,7 +70,7 @@ Closures reduced new disability beneficiaries by **2.3% overall**, with larger d
     <a class="doc-link"
        href="{{ '/assets/pdf/jmp.pdf' | relative_url }}"
        download="Caroline_Welter_JMP.pdf">
-      <span>Download Job Market Paper</span>
+      <span>Job Market Paper</span>
       <i class="fas fa-file-pdf"></i>
     </a>
   </li>
@@ -99,7 +101,7 @@ Closures reduced new disability beneficiaries by **2.3% overall**, with larger d
 
 ---
 
-📩 **Contact:** **caroline.welter@mail.wvu.edu**  
+📩 **Contact:** [caroline.welter@mail.wvu.edu](mailto:caroline.welter@mail.wvu.edu)
 🔗 **LinkedIn:** [linkedin.com/in/caroline-welter](https://www.linkedin.com/in/caroline-welter)  
 
 

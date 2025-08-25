@@ -58,7 +58,7 @@ This paper estimates the impact of Social Security Administration (SSA) field of
 
 
 <details>
-  <summary><strong>*Other Publications: click to view full list*</strong></summary>
+  <summary><strong>Other Publications: click to view full list</strong></summary>
 
 {% bibliography
    --file papers
