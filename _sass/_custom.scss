@@ -110,3 +110,8 @@
 }
 
 
+
+/* Compact bibliography list look */
+.bibliography { list-style: none; padding-left: 0; margin-left: 0; }
+.bib-entry { margin: 0 0 1rem 0; }
+.bib-entry .title a { text-decoration: none; }
