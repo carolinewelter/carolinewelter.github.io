@@ -47,6 +47,7 @@ Here are my statements:
 </ul>
 -->
 
+<br>
 
 **Hello there, welcome to my website!**
 
@@ -83,8 +84,6 @@ Closures reduced new disability beneficiaries by **2.3% overall**, with larger d
 </ul>
 
 
-<br>   <!-- adds empty vertical space -->
-
 ---
 
 ## Research & Teaching Statements
@@ -107,7 +106,7 @@ Closures reduced new disability beneficiaries by **2.3% overall**, with larger d
   </li>
 </ul>
 
-<br>
+
 ---
 
 📩 **Contact:** [caroline.welter@mail.wvu.edu](mailto:caroline.welter@mail.wvu.edu)

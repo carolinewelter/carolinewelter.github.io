@@ -30,12 +30,12 @@ I also take an inclusive approach to assessment, using a mix of exams, quizzes, 
 - **Principles of Microeconomics (ECON 201)**  
   - Summer 2024, Fall 2024, and Spring 2025  
   - Book: *Microeconomics* by Glenn Hubbard and Anthony Patrick O’Brien  
-  - [Download Syllabus (PDF)]({{ '/assets/pdf/econ201_syllabus.pdf' | relative_url }})
+  - [Download Syllabus]({{ '/assets/pdf/econ201_syllabus.pdf' | relative_url }})
 
 - **Health Economics (ECON 465)** 
   - Upcoming Spring 2026
   - Book: *Health Economics* by Bhattacharya, Hyde and Tu
-  - [Download Syllabus (PDF)]({{ '/assets/pdf/econ465_syllabus.pdf' | relative_url }})
+  - [Download Syllabus]({{ '/assets/pdf/econ465_syllabus.pdf' | relative_url }})
 
 ---
 
