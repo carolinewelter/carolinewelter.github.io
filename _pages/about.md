@@ -50,6 +50,8 @@ Here are my statements:
 
 **Hello there, welcome to my website!**
 
+<br>
+
 I am a **Ph.D. candidate in Economics** at **West Virginia University**, currently in my 5th year and on the **2025–26 job market**.  
 
 My research lies at the intersection of **Health Economics** and **Urban & Regional Economics**, with a focus on how place and policy design shape access to public programs, health, and economic opportunity. 
@@ -57,10 +59,12 @@ My research lies at the intersection of **Health Economics** and **Urban & Regio
 Methodologically, I use **causal inference** with administrative, spatial, and survey data to study distributional effects across rural and digitally underserved populations.
 
 <br><br>   <!-- adds empty vertical space -->
+<br><br>
 
 ---
 
 ## Featured: Job Market Paper
+
 **The Impact of SSA Field Office Closures on Disability Program Participation**
 
 This paper estimates how the nationwide closures of Social Security Administration (SSA) field offices during the COVID-19 lockdown affected participation in disability benefit programs. I exploit these closures as a natural experiment using a difference-in-differences design.  
@@ -79,7 +83,7 @@ Closures reduced new disability beneficiaries by **2.3% overall**, with larger d
 </ul>
 
 
-<br><br>   <!-- adds empty vertical space -->
+<br>   <!-- adds empty vertical space -->
 
 ---
 
