@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Economics and Graduate Research Assistant at the <a
 
 profile:
   align: left
-  image: caroline_welter.jpg
+  image: carolwelter.jpg
   image_circular: true # crops the image to make it circular
   address: 
 
@@ -103,7 +103,7 @@ Closures reduced new disability beneficiaries by **2.3% overall**, with larger d
   </li>
 </ul>
 
-
+<br>
 ---
 
 📩 **Contact:** [caroline.welter@mail.wvu.edu](mailto:caroline.welter@mail.wvu.edu)
