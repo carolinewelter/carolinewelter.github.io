@@ -56,8 +56,7 @@ My research lies at the intersection of **Health Economics** and **Urban & Regio
 
 Methodologically, I use **causal inference** with administrative, spatial, and survey data to study distributional effects across rural and digitally underserved populations.
 
-<div class="spacer"></div>
-<div class="spacer"></div>
+<br><br>   <!-- adds empty vertical space -->
 
 ---
 
@@ -80,7 +79,7 @@ Closures reduced new disability beneficiaries by **2.3% overall**, with larger d
 </ul>
 
 
-<div class="spacer"></div>
+<br><br>   <!-- adds empty vertical space -->
 
 ---
 
@@ -108,6 +107,7 @@ Closures reduced new disability beneficiaries by **2.3% overall**, with larger d
 ---
 
 📩 **Contact:** [caroline.welter@mail.wvu.edu](mailto:caroline.welter@mail.wvu.edu)
+
 🔗 **LinkedIn:** [linkedin.com/in/caroline-welter](https://www.linkedin.com/in/caroline-welter)  
 
 
