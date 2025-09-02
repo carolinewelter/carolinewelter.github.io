@@ -70,7 +70,7 @@ Methodologically, I use **causal inference** with administrative, spatial, and s
 
 This paper estimates how the nationwide closures of Social Security Administration (SSA) field offices during the COVID-19 lockdown affected participation in disability benefit programs. I exploit these closures as a natural experiment using a difference-in-differences design.  
 
-Closures reduced new disability beneficiaries by **2.3% overall**, with larger declines in **non-metropolitan areas (–9.4%)** and **low-internet communities (–3.5%)**, showing that in-person administrative access remains vital for vulnerable populations.
+Closures reduced new disability beneficiaries by **2.3% overall**, with larger declines in **non-metropolitan areas (–9.4%)** and **low-internet communities (–6.65%)**, showing that in-person administrative access remains vital for vulnerable populations.
 
 <ul class="doc-links">
   <li>
