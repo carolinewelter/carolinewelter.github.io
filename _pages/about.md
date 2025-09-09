@@ -8,7 +8,8 @@ profile:
   align: left
   image: carolwelter.jpg
   image_circular: true # crops the image to make it circular
-  address: 📩 **Contact:** [caroline.welter@mail.wvu.edu](mailto:caroline.welter@mail.wvu.edu)
+  address: '📩 <strong>Contact:</strong> <a href="mailto:caroline.welter@mail.wvu.edu">caroline.welter@mail.wvu.edu</a>'
+
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
