@@ -54,7 +54,7 @@ This paper estimates the impact of Social Security Administration (SSA) field of
   *Economic Analysis and Policy*, 88, 1-12. [Link](https://doi.org/10.1016/j.eap.2025.08.029)
 
 - **Identification and Analysis of the Evolution of Local Productive Arrangements**, (2021), with Daniel Centuriao and Luiz Cypriano.  
-  *Journal of Regional Analysis & Policy*, 51(2), 49–66. [Link](https://jrip.scholasticahq.com/article/18918)
+  *Journal of Regional Analysis & Policy*, 51(2), 49–66. [Link](https://jrap.scholasticahq.com/article/27454-identification-and-analysis-of-the-evolution-of-local-productive-arrangements)
 
 
 
