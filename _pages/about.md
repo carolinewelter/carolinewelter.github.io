@@ -8,7 +8,7 @@ profile:
   align: left
   image: carolwelter.jpg
   image_circular: true # crops the image to make it circular
-  address: 
+  address: 📩 **Contact:** [caroline.welter@mail.wvu.edu](mailto:caroline.welter@mail.wvu.edu)
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -25,26 +25,6 @@ I am a Ph.D. candidate in Economics, currently in my 5th year at [West Virginia 
 I have been employing rigorous Causal Inference Methods to my research. The outcome of these research has been the publication of several research papers, which I am excited to share with you on this platform. Here, you will find an extensive collection of my published works, along with a detailed curriculum vitae that outlines my academic accomplishments, research contributions, and professional experiences.
 
 
-Here are my statements:
-
-<ul class="doc-links">
-  <li>
-    <a class="doc-link"
-       href="{{ '/assets/pdf/Research_Statement.pdf' | relative_url }}"
-       download="Caroline_Welter_Research_Statement.pdf">
-      <span>Research Statement</span>
-      <i class="fas fa-file-pdf"></i>
-    </a>
-  </li>
-  <li>
-    <a class="doc-link"
-       href="{{ '/assets/pdf/Teaching_Ctatement.pdf' | relative_url }}"
-       download="Caroline_Welter_Teaching_Statement.pdf">
-      <span>Teaching Statement</span>
-      <i class="fas fa-file-pdf"></i>
-    </a>
-  </li>
-</ul>
 -->
 
 <br>
@@ -86,7 +66,7 @@ Closures reduced new disability beneficiaries by **2.3% overall**, with larger d
 
 ---
 
-## Research & Teaching Statements
+## Research and Teaching Statements
 <ul class="doc-links">
   <li>
     <a class="doc-link"
@@ -96,6 +76,7 @@ Closures reduced new disability beneficiaries by **2.3% overall**, with larger d
       <i class="fas fa-file-pdf"></i>
     </a>
   </li>
+
   <li>
     <a class="doc-link"
        href="{{ '/assets/pdf/Teaching_Ctatement.pdf' | relative_url }}"
@@ -106,12 +87,12 @@ Closures reduced new disability beneficiaries by **2.3% overall**, with larger d
   </li>
 </ul>
 
-
+<!--
 ---
 
 📩 **Contact:** [caroline.welter@mail.wvu.edu](mailto:caroline.welter@mail.wvu.edu)
 
 🔗 **LinkedIn:** [linkedin.com/in/caroline-welter](https://www.linkedin.com/in/caroline-welter)  
 
-
+-->
 
