@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 
-My research lies at the intersection of health economics, regional and urban economics, and public policy. I investigate how health disparities, access to care, and well-being policies unfold across space and socioeconomic lines. I am particularly interested in the heterogeneous effects of public programs and structural barriers that disproportionately affect vulnerable populations, including those in rural areas and communities facing increased challenges due to the shift to online services and the effects of automation. My work emphasizes how place and policy interact to shape program participation, labor market outcomes, and health.  
+My research lies at the intersection of health economics, regional and urban economics, and public policy. I examine how economic inequalities, health disparities, access to care, and well-being policies play out across urban and rural contexts, with particular attention to elderly and minority populations. I am especially interested in the heterogeneous effects of public programs and the administrative barriers that disproportionately impact vulnerable groups, including rural communities and those facing heightened challenges from the digital divide and automation. Across this work, I emphasize how place and policy interact to shape program participation, labor market outcomes, and health.  
 
 See my [**Google Scholar profile**](https://scholar.google.com/citations?user=33jW5MgAAAAJ&hl=en&oi=ao) for a full list of publications and citations.
 
@@ -29,7 +29,7 @@ See my [**Google Scholar profile**](https://scholar.google.com/citations?user=33
 
 **The Impact of SSA Field Office Closures on Disability Program Participation**  
 
-This paper estimates the impact of Social Security Administration (SSA) field office closures on participation in federal disability benefit programs. I exploit the uniform, nationwide closure of over 1,200 SSA field offices during the COVID-19 lockdown period as a natural experiment. Using a difference-in-differences framework, I compare changes in the number of newly enrolled disabled beneficiaries across ZIP codes with and without a local SSA office. The results show that, on average, closures reduced the number of new disability beneficiaries by 2.3%. The effects are significantly larger in non-metropolitan areas (-9.4%) and in communities with low internet access (-6.65%), suggesting that limited digital infrastructure exacerbated the barriers imposed by the loss of in-person services. These findings provide evidence that in-person administrative access plays a vital role in facilitating disability program enrollment, particularly for vulnerable and digitally underserved populations. 
+This paper estimates the impact of Social Security Administration (SSA) field office closures on participation in federal disability benefit programs. I exploit the uniform, nationwide closure of over 1,200 SSA field offices during the COVID-19 lockdown period as a natural experiment. Using a difference-in-differences framework, I compare changes in the number of enrolled disabled beneficiaries across ZIP codes with and without a local SSA office. The results show that, on average, closures reduced the number of disability beneficiaries by 2.3%. The effects are significantly larger in non-metropolitan areas (-9.4%) and in communities with low internet access (-6.65%), suggesting that limited digital infrastructure exacerbated the barriers imposed by the loss of in-person services. These findings provide evidence that in-person administrative access plays a vital role in facilitating disability program enrollment, particularly for vulnerable and digitally underserved populations. 
 
 <ul class="doc-links">
   <li>
@@ -50,11 +50,11 @@ This paper estimates the impact of Social Security Administration (SSA) field of
 - **Assessing the Local Cost of Urban Climate Resilience: An Analysis of the NYC Financial District and Seaport Climate Resilience (FiDi) Master Plan**, (2025), with Daniel Centuriao.  
   *Papers in Regional Science*, 104(5), 100110. [Link](https://doi.org/10.1016/j.pirs.2025.100110)
 
-- **Regional Economic Impacts of COVID-19 Lockdowns and Mitigation Effects of Stimulus Checks and Unemployment Insurance**, , (2025), with Daniel Centuriao, Amir Ferreira Neto, and Fernando Perobelli.  
-  *Forthcoming, Economic Analysis and Policy*. [Link](https://doi.org/10.1016/j.eap.2025.08.029)
+- **Regional Economic Impacts of COVID-19 Lockdowns and Mitigation Effects of Stimulus Checks and Unemployment Insurance**, (2025), with Daniel Centuriao, Amir Ferreira Neto, and Fernando Perobelli.  
+  *Economic Analysis and Policy*, 88, 1-12. [Link](https://doi.org/10.1016/j.eap.2025.08.029)
 
 - **Identification and Analysis of the Evolution of Local Productive Arrangements**, (2021), with Daniel Centuriao and Luiz Cypriano.  
-  *Journal of Regional Analysis & Policy*, 51(2), 49–66. [Link](https://jrip.scholasticahq.com/article/18918)
+  *Journal of Regional Analysis & Policy*, 51(2), 49–66. [Link](https://jrap.scholasticahq.com/article/27454-identification-and-analysis-of-the-evolution-of-local-productive-arrangements)
 
 
 
@@ -89,6 +89,7 @@ This paper estimates the impact of Social Security Administration (SSA) field of
 
 - **Maternal Responses to Immunization, Microcephaly, and Infant Mortality due to the Zika Epidemic** (dissertation chapter).  
 - **Continuous Glucose Monitoring (CGM) Adoption After Medicaid Insurance Coverage Expansion**, with Daniel Grossman and Amanda Gaulke (dissertation chapter).
+- **Telehealth Access and Licensing Reform: Evidence from West Virginia**, with Heather Stephens.
 
 ---
 

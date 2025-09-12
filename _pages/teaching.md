@@ -46,7 +46,7 @@ I also take an inclusive approach to assessment, using a mix of exams, quizzes, 
   - *Elasticity with Rubber Bands*: simple visual analogy.  
   - *Tennis Ball Production Game*: demonstrates diminishing marginal returns.  
 - **Technology integration**: [Kahoot](https://kahoot.com/) and [Pear Deck](https://www.peardeck.com/) for real-time feedback and engagement.   
-- [View full experiment materials and photos](https://drive.google.com/drive/folders/1IAUTKBI5-GYL1x71Y5WHy6HvNOAX52k3?usp=drive_link)
+- [View full experiment materials and photos](https://drive.google.com/drive/folders/1IAUTKBI5-GYL1x71Y5WHy6HvNOAX52k3?usp=sharing)
 
 
 ---
