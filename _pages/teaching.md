@@ -9,9 +9,9 @@ nav_order: 3
 
 
 
-I am committed to creating inclusive, dynamic classroom environments where students engage deeply with economic theory and real-world applications. My teaching emphasizes active learning, structured clarity, and responsiveness to diverse student needs. I incorporate classroom experiments, interactive tools such as [Kahoot](https://kahoot.com/) and [Pear Deck](https://www.peardeck.com/), and project-based assignments to make economics accessible and meaningful.  
+I am committed to creating a dynamic classroom environment where students engage deeply with economic theory and real-world applications. My teaching emphasizes active learning, structured clarity, and responsiveness to diverse student needs. I incorporate classroom experiments, interactive tools such as [Kahoot](https://kahoot.com/) and [Pear Deck](https://www.peardeck.com/), and project-based assignments to make economics accessible and meaningful.  
 
-I also take an inclusive approach to assessment, using a mix of exams, quizzes, group projects, and alternative participation formats for students with restrictions. My goal is to ensure that every student has multiple pathways to succeed, while maintaining academic rigor.
+I also take a varied approach to assessment, using a mix of exams, quizzes, group projects, and alternative participation formats for students with restrictions. My goal is to ensure that every student has multiple pathways to succeed, while maintaining academic rigor.
 
 <ul class="doc-links">
   <li>

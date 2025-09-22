@@ -30,7 +30,7 @@ I have been employing rigorous Causal Inference Methods to my research. The outc
 
 <br>
 
-**Hello there, welcome to my website!**
+
 
 <br>
 
