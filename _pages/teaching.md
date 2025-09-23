@@ -66,9 +66,9 @@ the stress of exams. Also, these quizzes could serve as a knowledge check so stu
 <ul class="doc-links">
   <li>
     <a class="doc-link"
-       href="{{ '/assets/pdf/teaching_evals.pdf' | relative_url }}"
-       download="Caroline_Welter_Teaching_Evaluation.pdf">
-      <span>Full Course Evaluations (Teaching Effectiveness) </span>
+       href="{{ '/assets/pdf/Evidence_of_Teaching_Effectiveness.pdf' | relative_url }}"
+       download="Caroline_Welter_Evidence_Teaching_Effectiveness.pdf">
+      <span> Evidence of Teaching Effectiveness) </span>
       <i class="fas fa-file-pdf"></i>
     </a>
   </li>
