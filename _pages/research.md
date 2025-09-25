@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 
-My research lies at the intersection of health economics, regional and urban economics, and public policy. I examine how economic inequalities, health disparities, access to care, and well-being policies play out across urban and rural contexts, with particular attention to elderly and minority populations. I am especially interested in the heterogeneous effects of public programs and the administrative barriers that disproportionately impact vulnerable groups, including rural communities and those facing heightened challenges from the digital divide and automation. Across this work, I emphasize how place and policy interact to shape program participation, labor market outcomes, and health.  
+My research lies at the intersection of health economics, regional and urban economics, and public policy. I examine how economic inequalities, health disparities, access to care, and policies play out across urban and rural contexts. I am especially interested in the heterogeneous effects of public programs and the administrative barriers that disproportionately impact different groups, including rural communities and those facing heightened challenges from the digital divide and automation. In all my research, I emphasize how place and policy interact to shape program participation, labor market outcomes, and health.  
 
 See my [**Google Scholar profile**](https://scholar.google.com/citations?user=33jW5MgAAAAJ&hl=en&oi=ao) for a full list of publications and citations.
 

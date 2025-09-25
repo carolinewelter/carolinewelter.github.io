@@ -28,11 +28,11 @@ I have been employing rigorous Causal Inference Methods to my research. The outc
 
 -->
 
-<br>
+<br><br>
 
-**Hello there, welcome to my website!**
 
-<br>
+
+
 
 I am a **Ph.D. candidate in Economics** at **West Virginia University**, currently in my 5th year and on the **2025–26 job market**.  
 
@@ -43,6 +43,7 @@ Methodologically, I use **causal inference** with administrative, spatial, and s
 <br><br>   <!-- adds empty vertical space -->
 <br><br>
 
+<br>
 ---
 
 ## Featured: Job Market Paper
