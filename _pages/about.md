@@ -43,7 +43,7 @@ Methodologically, I use **causal inference** with administrative, spatial, and s
 <br><br>   <!-- adds empty vertical space -->
 <br><br>
 
-<br>
+<br><br>
 ---
 
 ## Featured: Job Market Paper
