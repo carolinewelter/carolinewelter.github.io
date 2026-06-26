@@ -13,7 +13,7 @@ I am committed to creating a dynamic classroom environment where students engage
 
 I also take a varied approach to assessment, using a mix of exams, quizzes, group projects, and alternative participation formats for students with restrictions. My goal is to ensure that every student has multiple pathways to succeed, while maintaining academic rigor.
 
-<ul class="doc-links">
+<!-- <ul class="doc-links">
   <li>
     <a class="doc-link"
        href="{{ '/assets/pdf/Teaching_Statement.pdf' | relative_url }}"
@@ -22,7 +22,7 @@ I also take a varied approach to assessment, using a mix of exams, quizzes, grou
       <i class="fas fa-file-pdf"></i>
     </a>
   </li>
-</ul>
+</ul> -->
 
 ---
 
@@ -62,7 +62,7 @@ I actively use mid-semester surveys and official evaluations to improve my teach
 
 > *"I enjoyed this course. The professor was able to teach the topics in various, engaging ways that kept our attention throughout the entire lecture. She was willing to work with students if they needed accommodations for something."*
 
-<ul class="doc-links">
+<!-- <ul class="doc-links">
   <li>
     <a class="doc-link"
        href="{{ '/assets/pdf/Evidence_of_Teaching_Effectiveness.pdf' | relative_url }}"
@@ -71,6 +71,6 @@ I actively use mid-semester surveys and official evaluations to improve my teach
       <i class="fas fa-file-pdf"></i>
     </a>
   </li>
-</ul>
+</ul> -->
 
 

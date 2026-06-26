@@ -12,7 +12,7 @@ My research lies at the intersection of health economics, regional and urban eco
 
 See my [**Google Scholar profile**](https://scholar.google.com/citations?user=33jW5MgAAAAJ&hl=en&oi=ao) for a full list of publications and citations.
 
-<ul class="doc-links">
+<!-- <ul class="doc-links">
   <li>
     <a class="doc-link"
        href="{{ '/assets/pdf/Research_Statement.pdf' | relative_url }}"
@@ -21,7 +21,7 @@ See my [**Google Scholar profile**](https://scholar.google.com/citations?user=33
       <i class="fas fa-file-pdf"></i>
     </a>
   </li>
-</ul>
+</ul> -->
 
 ---
 
@@ -29,7 +29,7 @@ See my [**Google Scholar profile**](https://scholar.google.com/citations?user=33
 
 **The Impact of SSA Field Office Closures on Disability Program Participation**  
 
-This paper estimates the impact of Social Security Administration (SSA) field office closures on participation in federal disability benefit programs. I exploit the uniform, nationwide closure of over 1,200 SSA field offices during the COVID-19 lockdown period as a natural experiment. Using a difference-in-differences framework, I compare changes in the number of enrolled disabled beneficiaries across ZIP codes with and without a local SSA office. The results show that, on average, closures reduced the number of disability beneficiaries by 2.3%. The effects are significantly larger in non-metropolitan areas (-9.4%) and in communities with low internet access (-6.65%), suggesting that limited digital infrastructure exacerbated the barriers imposed by the loss of in-person services. These findings provide evidence that in-person administrative access plays a vital role in facilitating disability program enrollment, particularly for vulnerable and digitally underserved populations. 
+This paper estimates the impact of Social Security Administration (SSA) field office closures on participation in federal disability benefit programs. I exploit the uniform, nationwide closure of over 1,200 SSA field offices during the COVID-19 lockdown period as a natural experiment. Using a difference-in-differences framework, I compare changes in the number of newly enrolled disabled beneficiaries across ZIP codes with and without a local SSA office. The results show that, on average, closures reduced the number of disability beneficiaries by 2.3\%. The effects are significantly larger in non-metropolitan areas (-9.4\%) and in communities with low internet access (-6.65\%), suggesting that limited digital infrastructure exacerbated the barriers imposed by the loss of in-person services. These findings provide evidence that in-person administrative access plays a vital role in facilitating disability program enrollment, particularly for vulnerable and digitally underserved populations. The results highlight the risks associated with digital-only service delivery models and emphasize the importance of maintaining physical access points in the design of equitable public service systems.
 
 <ul class="doc-links">
   <li>
@@ -79,9 +79,9 @@ This paper estimates the impact of Social Security Administration (SSA) field of
 
 - **Is Obesity Affected by Urban Sprawl? Evidence from Brazil**, with Jane Ruseski. 
 
-- **Maternal Responses to Immunization, Microcephaly, and Infant Mortality due to the Zika Epidemic** (dissertation chapter).  
+- **Epidemic Risk and Preventive Health Behavior: Evidence from Zika Exposure and Childhood Vaccination in Brazil** (dissertation chapter).  
 
-- **Continuous Glucose Monitoring (CGM) Adoption After Medicaid Insurance Coverage Expansion**, with Daniel Grossman and Amanda Gaulke (dissertation chapter).
+- **Administrative Burden and Treatment Continuation: Evidence from Continuous Glucose Monitoring in Medicaid**, with Daniel Grossman and Amanda Gaulke (dissertation chapter).
 
 - **Aggregation Bias and Input-Output Regionalization: Detail or Accuracy?**  
   Regional Research Institute Working Paper, with Randall Jackson. [Link](https://researchrepository.wvu.edu/rri_pubs/221/)
