@@ -79,6 +79,10 @@ This paper estimates the impact of Social Security Administration (SSA) field of
 
 - **Is Obesity Affected by Urban Sprawl? Evidence from Brazil**, with Jane Ruseski. 
 
+- **Maternal Responses to Immunization, Microcephaly, and Infant Mortality due to the Zika Epidemic** (dissertation chapter).  
+
+- **Continuous Glucose Monitoring (CGM) Adoption After Medicaid Insurance Coverage Expansion**, with Daniel Grossman and Amanda Gaulke (dissertation chapter).
+
 - **Aggregation Bias and Input-Output Regionalization: Detail or Accuracy?**  
   Regional Research Institute Working Paper, with Randall Jackson. [Link](https://researchrepository.wvu.edu/rri_pubs/221/)
 
@@ -87,8 +91,7 @@ This paper estimates the impact of Social Security Administration (SSA) field of
 
 ## Work in Progress
 
-- **Maternal Responses to Immunization, Microcephaly, and Infant Mortality due to the Zika Epidemic** (dissertation chapter).  
-- **Continuous Glucose Monitoring (CGM) Adoption After Medicaid Insurance Coverage Expansion**, with Daniel Grossman and Amanda Gaulke (dissertation chapter).
+
 - **Telehealth Access and Licensing Reform: Evidence from West Virginia**, with Heather Stephens.
 
 ---
