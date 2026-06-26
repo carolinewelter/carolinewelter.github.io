@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming Assistant Professor of Economics at <a href='https://www.skidmore.edu/'> Skidmore College </a>.
+subtitle: Incoming Assistant Professor of Economics at <a href='https://www.skidmore.edu/'>Skidmore College </a>.
 
 profile:
   align: left
