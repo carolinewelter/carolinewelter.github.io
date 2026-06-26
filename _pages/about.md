@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate in Economics and Graduate Research Assistant at the <a href='https://rri.wvu.edu/'> Regional Research Institute at WVU </a>.
+subtitle: Incoming Assistant Professor of Economics at <a href='https://www.skidmore.edu/'> Skidmore College </a>.
 
 profile:
   align: left
   image: carolwelter.jpg
   image_circular: true # crops the image to make it circular
-  address: '📩 <strong>Contact:</strong> <a href="mailto:caroline.welter@mail.wvu.edu">caroline.welter@mail.wvu.edu</a>'
+  address: '📩 <strong>Contact:</strong> <a href="mailto:cwelter@skidmore.edu">cwelter@skidmore.edu</a>'
 
 
 news: false  # includes a list of news items
@@ -17,28 +17,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<!-- 
-**Hello there, welcome to my website!**
-
-I am a Ph.D. candidate in Economics, currently in my 5th year at [West Virginia University](https://www.wvu.edu/). I hold both M.A. and B.Sc. degrees in the field. Throughout my academic journey, my research focus has revolved around the domains of Health Economics, with a particular emphasis on its connection with Urban and Regional Economics.
-<!-- My academic pursuits have also earned me the esteemed position of a Graduate Research Assistant at the renowned [Regional Research Institute](https://rri.wvu.edu/). 
-
-I have been employing rigorous Causal Inference Methods to my research. The outcome of these research has been the publication of several research papers, which I am excited to share with you on this platform. Here, you will find an extensive collection of my published works, along with a detailed curriculum vitae that outlines my academic accomplishments, research contributions, and professional experiences.
-
-
--->
 
 <br><br>
 
 
 
+## About Me
 
+I am an economist specializing in Health Economics and Urban and Regional Economics. My research studies how place and policy design shape access to public programs, health care, and economic opportunity.
 
-I am a **Ph.D. candidate in Economics** at **West Virginia University**, currently in my 5th year and on the **2025–26 job market**.  
+I received my Ph.D. in Economics from West Virginia University and will join Skidmore College as an Assistant Professor of Economics in Fall 2026. My work uses causal inference methods with administrative, spatial, and survey data to examine distributional effects across rural, low-income, and digitally underserved populations.
 
-My research lies at the intersection of **Health Economics** and **Urban & Regional Economics**, with a focus on how place and policy design shape access to public programs, health, and economic opportunity. 
-
-Methodologically, I use **causal inference** with administrative, spatial, and survey data to study distributional effects across rural and digitally underserved populations.
+My current research focuses on disability program access, telehealth, health care delivery, and regional economic inequality.
 
 <br><br>   <!-- adds empty vertical space -->
 <br><br>
@@ -46,13 +36,14 @@ Methodologically, I use **causal inference** with administrative, spatial, and s
 <br><br>
 ---
 
-## Featured: Job Market Paper
+## Featured Job Market Paper
 
 **The Impact of SSA Field Office Closures on Disability Program Participation**
 
-This paper estimates how the nationwide closures of Social Security Administration (SSA) field offices during the COVID-19 lockdown affected participation in disability benefit programs. I exploit these closures as a natural experiment using a difference-in-differences design.  
+This paper studies how the nationwide closure of Social Security Administration field offices during the COVID-19 pandemic affected participation in disability benefit programs. I exploit these closures as a natural experiment using a difference-in-differences design.
 
-Closures reduced new disability beneficiaries by **2.3% overall**, with larger declines in **non-metropolitan areas (–9.4%)** and **low-internet communities (–6.65%)**, showing that in-person administrative access remains vital for vulnerable populations.
+I find that closures reduced new disability beneficiaries by 2.3% overall, with larger declines in non-metropolitan areas (-9.4%) and low-internet communities (-6.65%). These results show that in-person administrative access remains important for vulnerable populations, even as public agencies expand remote service delivery.
+
 
 <ul class="doc-links">
   <li>
@@ -66,33 +57,12 @@ Closures reduced new disability beneficiaries by **2.3% overall**, with larger d
 </ul>
 
 
----
 
-## Research and Teaching Statements
-<ul class="doc-links">
-  <li>
-    <a class="doc-link"
-       href="{{ '/assets/pdf/Research_Statement.pdf' | relative_url }}"
-       download="Caroline_Welter_Research_Statement.pdf">
-      <span>Research Statement</span>
-      <i class="fas fa-file-pdf"></i>
-    </a>
-  </li>
-
-  <li>
-    <a class="doc-link"
-       href="{{ '/assets/pdf/Teaching_Ctatement.pdf' | relative_url }}"
-       download="Caroline_Welter_Teaching_Statement.pdf">
-      <span>Teaching Statement</span>
-      <i class="fas fa-file-pdf"></i>
-    </a>
-  </li>
-</ul>
 
 <!--
 ---
 
-📩 **Contact:** [caroline.welter@mail.wvu.edu](mailto:caroline.welter@mail.wvu.edu)
+📩 **Contact:** [cwelter@skidmore.edu](mailto:cwelter@skidmore.edu)
 
 🔗 **LinkedIn:** [linkedin.com/in/caroline-welter](https://www.linkedin.com/in/caroline-welter)  
 
