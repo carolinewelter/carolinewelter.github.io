@@ -23,6 +23,7 @@ See my [**Google Scholar profile**](https://scholar.google.com/citations?user=33
   </li>
 </ul> -->
 
+<!--
 ---
 
 ## Job Market Paper
@@ -42,7 +43,7 @@ This paper estimates the impact of Social Security Administration (SSA) field of
   </li>
 </ul>
 
-
+-->
 ---
 
 ## Publications
@@ -55,7 +56,6 @@ This paper estimates the impact of Social Security Administration (SSA) field of
 
 - **Identification and Analysis of the Evolution of Local Productive Arrangements**, (2021), with Daniel Centuriao and Luiz Cypriano.  
   *Journal of Regional Analysis & Policy*, 51(2), 49–66. [Link](https://jrap.scholasticahq.com/article/27454-identification-and-analysis-of-the-evolution-of-local-productive-arrangements)
-
 
 
 <details>
@@ -77,11 +77,13 @@ This paper estimates the impact of Social Security Administration (SSA) field of
 
 ## Working Papers
 
+- **The Impact of SSA Field Office Closures on Disability Program Participation**
+
+- **Ordeal Mechanisms, Treatment Continuation, and Health Outcomes: Evidence from Continuous Glucose Monitoring in Medicaid**, with Daniel Grossman and Amanda Gaulke.
+
+- **Epidemic Risk and Preventive Health Behavior: Evidence from Zika Exposure and Childhood Vaccination in Brazil**   
+
 - **Is Obesity Affected by Urban Sprawl? Evidence from Brazil**, with Jane Ruseski. 
-
-- **Epidemic Risk and Preventive Health Behavior: Evidence from Zika Exposure and Childhood Vaccination in Brazil** (dissertation chapter).  
-
-- **Administrative Burden and Treatment Continuation: Evidence from Continuous Glucose Monitoring in Medicaid**, with Daniel Grossman and Amanda Gaulke (dissertation chapter).
 
 - **Aggregation Bias and Input-Output Regionalization: Detail or Accuracy?**  
   Regional Research Institute Working Paper, with Randall Jackson. [Link](https://researchrepository.wvu.edu/rri_pubs/221/)
@@ -91,8 +93,11 @@ This paper estimates the impact of Social Security Administration (SSA) field of
 
 ## Work in Progress
 
-
 - **Telehealth Access and Licensing Reform: Evidence from West Virginia**, with Heather Stephens.
+
+- **Measuring the Outdoor Recreation economy at the sub-state level**, with Heather Stephens, Daniel Centuriao, and Matthew Fredriksson. (Selected for the AEA-ASSA 2027)
+
+- **Social Capital and Local Economic Recovery: Evidence from the COVID-19 Shock**, with Daniel Centuriao and Timothy Zuahng.
 
 ---
 
